@@ -25,6 +25,7 @@ Mythic heroes, ancient mystical traditions, galaxy-spanning rebellion against au
 - **GM Tone:** Lean into legend. Hope rolls should feel like the Force being with the characters — make them cinematic. Fear should feel like the Empire tightening its grip, not like random misfortune. Stress accumulates from moral compromise as much as combat. Let the mystical tradition (Psionic characters) attract attention from both sides of the conflict.
 
 **Faction Renaming Suggestions:**
+
 | Laserheart Faction | Star Wars Equivalent |
 |---|---|
 | The Resistance | The Rebel Alliance / Resistance cell |
@@ -56,6 +57,7 @@ A war was fought. The wrong side won. Now the outer planets scrape by under an A
 - **GM Tone:** Fear should feel like the Alliance closing in, a job going wrong, or the crew fracturing under pressure — not like random cosmic horror. Hope should feel like found family coming through, loyalty over self-interest, doing the right thing when it costs something. Stress accumulates from moral weight. Let the personal stakes drive more sessions than the external threats.
 
 **Faction Renaming Suggestions:**
+
 | Laserheart Faction | Firefly Equivalent |
 |---|---|
 | The Crew | Independent spacers, any unaffiliated crew |
@@ -87,6 +89,7 @@ A secret military program discovers that ancient mythology was real, alien, and 
 - **GM Tone:** Structure sessions as missions with a clear objective, an unexpected complication, and a cost. Fear should feel like Earth's exposure, a teammate captured behind enemy lines, or a false god tightening their grip on a planet full of people. Hope should feel like human ingenuity defeating superior technology through cleverness, preparation, or sacrifice. Let the Academy characters (scientists) have moments where knowledge saves the day.
 
 **Faction Renaming Suggestions:**
+
 | Laserheart Faction | Stargate Equivalent |
 |---|---|
 | The Fleet | The military program and its teams |
@@ -117,6 +120,7 @@ The colonies are gone. What remains is a fleet of ships, a military escort with 
 - **GM Tone:** Fear should feel like it's already too late — because sometimes it is. Losses should stick. Hope should be hard-won and fragile: a vote held together, a pilot who made it back, a baby born in the fleet. Stress accumulates relentlessly and players should feel it. Faith versus science is a recurring dramatic axis — don't resolve it. Let the prophecy be ambiguous. Let the Synthetic characters grapple with their nature in play, not just backstory.
 
 **Faction Renaming Suggestions:**
+
 | Laserheart Faction | BSG Equivalent |
 |---|---|
 | The Fleet | Colonial Military (officers, pilots, marines) |
@@ -139,7 +143,7 @@ The future worked out. Humanity solved its worst problems and went looking for n
 :::
 
 - **Enhanced Play:** Either — GM's call based on crew composition. Naturally telepathic species *(Vulcan-type, Betazoid-type)* map cleanly to the Psionic Domain (Empath specialization especially). This is not dramatic or rare in a Trek setting — it's simply part of some species' biology. If your crew includes such a character, enable Enhanced Play for them without fanfare.
-- **Recommended Origins:** Human *(common)*, Alien (any and all — lean heavily into varied Origins as a reflection of Federation diversity)*, Hybrid (Cybernetic) *(for post-assimilation characters or those with significant implants)*
+- **Recommended Origins:** Human *(common)*, Alien (any and all — lean heavily into varied Origins as a reflection of Federation diversity), Hybrid (Cybernetic) *(for post-assimilation characters or those with significant implants)*
 - **Recommended Factions:** The Fleet *(Starfleet — the dominant framework for almost every character)*, The Academy *(science officers, researchers — many Starfleet characters blend Fleet and Academy)*, The Resistance *(the Maquis, dissident groups, enemies who became allies)*
 - **Rename Credits as:** Credits are largely irrelevant in a Federation setting — the economy is post-scarcity. Use them only for dealings outside Federation space. *(Consider replacing Credits with a Reputation or Influence track for political/diplomatic campaigns.)*
 - **Weapon Emphasis:** Energy weapons only, and combat is a last resort. Stun settings should come up frequently. The most valuable tools are sensors, communicators, and the ship's systems — lean on the Operations and Tek domains heavily. A session where nobody fires a weapon is a success.
@@ -147,6 +151,7 @@ The future worked out. Humanity solved its worst problems and went looking for n
 - **GM Tone:** Hope should feel like the Federation's ideals proving themselves under pressure — first contact made peacefully, a conflict resolved without violence, a species understood rather than defeated. Fear should feel like those ideals being tested: the situation where the right answer and the easy answer are different things. Stress comes from ethical weight, not just physical danger. The best Star Trek stories end with the characters changed by what they encountered.
 
 **Faction Renaming Suggestions:**
+
 | Laserheart Faction | Star Trek Equivalent |
 |---|---|
 | The Fleet | Starfleet (command track, tactical, operations) |
