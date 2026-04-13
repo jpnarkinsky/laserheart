@@ -1,0 +1,61 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Laserheart: The Sci-Fi RPG Framework"
+  subtitle: "A Universal Sci-Fi Framework for Daggerheart™"
+  author: "JP Narkinsky"
+  date: last-modified
+  repo-url: https://github.com/jpnarkinsky/laserheart
+  repo-actions: [edit, issue]
+  favicon: favicon.ico
+
+  chapters:
+    - index.qmd
+    - part: "The Framework"
+      chapters:
+        - 01-philosophy.qmd
+        - 02-terminology.qmd
+    - part: "Character Creation"
+      chapters:
+        - 03-origins.qmd
+        - 04-factions.qmd
+        - 05-domains.qmd
+    - part: "Advanced Rules"
+      chapters:
+        - 06-vessels.qmd
+        - 07-enhanced-play.qmd
+        - 08-resonance-track.qmd
+    - part: "Running the Game"
+      chapters:
+        - 09-setting-profiles.qmd
+
+format:
+  html:
+    theme:
+      - darkly
+      - laserheart.scss
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    smooth-scroll: true
+    code-copy: false
+    grid:
+      body-width: 900px
+
+  pdf:
+    documentclass: scrbook
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    colorlinks: true
+    linkcolor: lhaccent
+    geometry: "margin=1in, paperwidth=6in, paperheight=9in"
+    mainfont: "Source Serif 4"
+    sansfont: "Source Sans 3"
+    monofont: "Source Code Pro"
+    fontsize: 10pt
+    linestretch: 1.4
+    include-in-header:
+      - preamble-pdf.tex

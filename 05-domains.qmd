@@ -1,0 +1,31 @@
+# Domains & Specializations
+
+Laserheart uses six Domains — the same number as Daggerheart. Each Domain maps to one of Daggerheart's original Domains and carries the same mechanical role, preserving cross-compatibility. Domain card mechanics are unchanged; only the names and ability flavor have been updated.
+
+## The Six Domains
+
+| Domain          | Daggerheart Equivalent                      | Description                                                                                                                                                                          |
+|-----------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Operations      | Grace / Codex                               | Piloting, navigation, electronic warfare, communications, and tactical command. The backbone of any crew. Operations characters keep the ship moving and the team coordinated.        |
+| Warfighter      | Blade / Bone                                | Frontline combat, heavy weapons, boarding actions, and personal defense. Warfighters end fights. They excel in direct engagements and can absorb punishment that would drop anyone else. |
+| Ghost           | Midnight / Splendor                         | Infiltration, social engineering, surveillance, assassination, and identity concealment. Ghosts solve problems before anyone knows there was a problem. Information is their primary weapon. |
+| Tek             | Sage / Arcana                               | Engineering, hacking, medicine, fabrication, and systems expertise. Teks keep everything running — weapons, ships, bodies, and networks. If it can be repaired or broken into, a Tek handles it. |
+| Psionic\*       | Prism / Valor *(Enhanced Play only)*        | Telekinesis, empathy, precognition, mind-linking, and force projection. The Psionic Domain is only available when Enhanced Play is enabled. In standard play, these slots draw from any other Domain. |
+| Voidwalker      | Seraph / Wildblood                          | Survival in extreme environments, alien biology, zero-gravity operations, long-range scouting, and communion with non-human intelligences. Voidwalkers go where no one else can.      |
+
+## Specializations (Classes)
+
+Each Domain contains three Specializations, mirroring Daggerheart's class structure. Specializations share the same two-Domain draw system — a character selects their Primary and Secondary Domain and draws from both.
+
+| Domain      | Specializations                                                                                        |
+|-------------|--------------------------------------------------------------------------------------------------------|
+| Operations  | Ace *(pilot/driver)*, Signal *(comms/EW specialist)*, Commander *(tactical coordinator)*               |
+| Warfighter  | Enforcer *(heavy front-liner)*, Marksman *(precision ranged)*, Breacher *(close-quarters specialist)*  |
+| Ghost       | Phantom *(infiltration/stealth)*, Fixer *(social/information broker)*, Assassin *(targeted elimination)* |
+| Tek         | Engineer *(fabrication/repair)*, Hacker *(systems intrusion)*, Medic *(battlefield medicine)*          |
+| Psionic\*   | Kinetic *(telekinesis/force)*, Empath *(mind-reading/influence)*, Seer *(precognition/remote sensing)* |
+| Voidwalker  | Ranger *(survival/scouting)*, Xenobiologist *(alien knowledge)*, Drifter *(extreme environment specialist)* |
+
+::: {.callout-note}
+\* Psionic Specializations require Enhanced Play to be enabled at the table.
+:::

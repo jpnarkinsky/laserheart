@@ -1,0 +1,97 @@
+# Enhanced Play Module
+
+Laserheart draws a hard line between two categories of extraordinary ability: **Tech** and **Psionics**. This distinction is the engine of the Enhanced Play system — it determines what every character can do regardless of setting, and what requires the table's explicit agreement to include.
+
+::: {.callout-warning title="The Core Rule"}
+**If a machine, implant, or piece of equipment could plausibly produce the effect — it's Tech. It is always available.**
+
+**If the effect requires an innate mental or biological gift with no device as its source — it's Psionic. It requires Enhanced Play.**
+
+The same *outcome* can exist in both categories. A character who moves objects with a gravity emitter is using Tech. A character who moves objects with their mind is using Psionics. The mechanics may be identical. The source is what the setting cares about.
+:::
+
+## What Is Always Available — Tech Abilities
+
+Tech covers any ability whose effect could be explained by equipment, implants, chemical augmentation, or advanced engineering — even if that equipment is exotic, miniaturized, or poorly understood by the characters using it. Tech abilities are available in **all** Laserheart games, Standard or Enhanced.
+
+| Ability Effect                             | Tech Explanation                                                     | Domain             |
+|--------------------------------------------|----------------------------------------------------------------------|--------------------|
+| Move an object without touching it         | Gravity emitter, magnetic pulse, tractor beam projector              | Tek                |
+| Become invisible or unseen                 | Active camouflage suit, light-bending cloak, ECM spoofing            | Ghost              |
+| Heal a wound rapidly                       | Nano-injector, biosynthetic foam, stimulant cocktail                 | Tek                |
+| Read surface information from a person     | Biometric scanner, stress-response analysis, micro-expression AI     | Ghost / Tek        |
+| Create a barrier or shield                 | Portable energy shield projector, reactive foam emitter              | Tek / Warfighter   |
+| Strike with energy at range                | Wrist-mounted plasma caster, directed energy weapon                  | Warfighter         |
+| Enhance physical strength or speed         | Exo-frame, combat stimulants, reflex implant                         | Warfighter / Tek   |
+| Communicate across vast distance instantly | Quantum-entangled comm unit, encrypted neural link                   | Operations         |
+| Survive in lethal environments             | Hardsuit, sealed rebreather, rad-gel injection                       | Voidwalker         |
+| Predict an enemy's next move               | Tactical AI overlay, pattern-recognition implant, battle data uplink | Operations / Ghost |
+
+::: {.callout-tip title="Designer Note — When in Doubt, Tech It"}
+If a player wants an ability that feels borderline, default to Tech. Invent a plausible device. "My character has a prototype cortical implant that simulates empathic response" keeps the effect in the game without requiring Enhanced Play. The table's immersion matters more than strict categorization.
+:::
+
+## What Requires Enhanced Play — Psionic Abilities
+
+Psionic abilities are those where the character's own mind or biology is the source of the effect — no device required, no device possible. They represent a fundamentally different category of being. In settings where this doesn't exist, these abilities don't exist either. That's not a limitation — it's a feature. Their absence makes Tech feel grounded; their presence makes Psionics feel genuinely special.
+
+| Ability Effect                      | Why It's Psionic                                   | Tech Analog Available?                |
+|-------------------------------------|----------------------------------------------------|---------------------------------------|
+| Telekinesis (innate)                | Mind directly exerts physical force with no device | Yes — gravity emitter (Tek)           |
+| Empathic reading (innate)           | Direct emotional perception without tools          | Yes — biometric scanner (Ghost/Tek)   |
+| Precognition                        | Genuine foresight; no machine produces this        | Partial — tactical AI (Operations)    |
+| Mind control / compulsion           | Direct mental override of another's will           | No true analog                        |
+| Psychic communication               | Mind-to-mind contact with no signal or device      | Yes — neural comms (Operations)       |
+| Force projection (innate)           | Will made physical; no intermediary                | No true analog                        |
+| Biological sensing of living things | Organic awareness beyond normal senses             | Partial — motion sensors              |
+
+## Ability Tags — Marking the Line on Cards
+
+Every Laserheart ability card carries one of two tags to make the distinction visible at a glance. When writing homebrew ability cards, always apply one of these tags:
+
+| Tag        | Meaning                                                                             | Available In       |
+|------------|-------------------------------------------------------------------------------------|---------------------|
+| **[TECH]** | Effect is produced by equipment, implants, or engineering. Device is the source.    | All games          |
+| **[PSI]**  | Effect is produced by the character's own mind or biology. No device required or possible. | Enhanced Play only |
+
+If an ability card does not carry a tag, treat it as **[TECH]** by default. This ensures Standard Play is never accidentally broken by an untagged card.
+
+```{=html}
+<div class="module-block">
+```
+
+#### Enabling Enhanced Play
+
+At the start of a campaign or Session Zero, the GM and players agree whether Enhanced Play is active. It is a binary switch — either **[PSI]** abilities are available or they are not. **[TECH]** abilities are always available regardless. Setting Profiles (Section IX) will note whether they are "Standard," "Enhanced," or "Either."
+
+#### What Enhanced Play Adds
+
+- The full **Psionic Domain** becomes available (Kinetic, Empath, Seer specializations)
+- All **[PSI]**-tagged ability cards become available for selection
+- Certain Origin traits that reference psionic potential become active
+- The Temple Faction's advanced abilities unlock
+- Specific item tags (Psi-Linked, Focus-Attuned) become usable
+- GM may introduce Psionic adversaries and hazards
+
+#### Playing a Psionic-Flavored Character in Standard Play
+
+If a player wants the *feel* of a psychic or mentalist in a Standard Play game, that is fully supported — through Tech. Work with the GM to establish what device or implant produces the effect. A "telepath" in Standard Play might carry a cortical resonance implant that reads brainwave patterns. A "precog" might have a tactical prediction AI hardwired into their nervous system. The **[TECH]** cards for these builds exist across the Ghost, Tek, and Operations Domains.
+
+#### The Psionic Domain in Standard Play
+
+When Enhanced Play is disabled, the Psionic Domain is entirely unavailable — including its Specializations (Kinetic, Empath, Seer). Characters who would have drawn from the Psionic Domain instead draw both Domain selections from any two non-Psionic Domains of their choice. This is not a penalty — it simply means all Psionic-flavored builds route through Tech instead, which is appropriate for the setting.
+
+#### Language Reference
+
+| Daggerheart Language   | [TECH] Version                         | [PSI] Version                   |
+|------------------------|----------------------------------------|---------------------------------|
+| Cast a spell           | Activate a system / Deploy a device    | Focus a power / Channel         |
+| Spellcasting roll      | Systems activation roll                | Psionic focus roll              |
+| Magic damage           | Energy / Exotic damage                 | Psionic damage                  |
+| Arcane / Divine flavor | Engineering / Quantum flavor           | Psionic / Xenobiological flavor |
+| Spell slot             | Charge / Protocol slot                 | Focus slot                      |
+| Concentration          | Active uplink / Sustained systems draw | Held focus / Mental strain      |
+
+```{=html}
+</div>
+```

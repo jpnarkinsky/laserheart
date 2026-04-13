@@ -1,0 +1,61 @@
+---
+title: "LASERHEART"
+subtitle: "A Universal Sci-Fi Framework for Daggerheart™"
+---
+
+```{=html}
+<div class="lh-badge-row">
+  <span class="lh-badge blue">Multi-Setting</span>
+  <span class="lh-badge green">DPCGL Compatible</span>
+  <span class="lh-badge gold">Modular Design</span>
+  <span class="lh-badge red">Enhanced Play Optional</span>
+</div>
+<p style="font-family:'Share Tech Mono',monospace;font-size:0.7rem;color:#5a7a99;letter-spacing:2px;">DRAFT v0.3 — FRAMEWORK DOCUMENT</p>
+```
+
+---
+
+## About This Document
+
+**Laserheart** is a science fiction framework built on the Daggerheart SRD. Its purpose is to let a table drop into any sci-fi setting — space opera, military sci-fi, cyberpunk, hard science — without relearning the game. If you know Daggerheart, you can play Laserheart in minutes.
+
+This document is the framework reference. It contains:
+
+- The core **terminology map** from Daggerheart to Laserheart
+- Rules for **Origins**, **Factions**, and **Domains**
+- The **Vessel** (ship) system
+- The optional **Enhanced Play** module (Tech vs. Psionics)
+- The optional **Resonance Track** for Psionic characters
+- Three ready-to-use **Setting Profiles**
+
+## What You Need to Play
+
+Laserheart requires the **Daggerheart Core Set** or access to the **Daggerheart SRD 1.0**. This document does not reproduce the core rules — it adapts and extends them for science fiction play. All core mechanics (Action Rolls, Hope/Fear, Stress, Evasion, the card-based ability system) function exactly as written in Daggerheart.
+
+## Table of Contents
+
+| Section | Topic |
+|---|---|
+| I | Design Philosophy |
+| II | Core Terminology |
+| III | Origins |
+| IV | Factions |
+| V | Domains & Specializations |
+| VI | Vessels (Ships) |
+| VII | Enhanced Play Module |
+| VIII | The Resonance Track *(optional)* |
+| IX | Setting Profiles |
+
+---
+
+::: {.attribution}
+LASERHEART is an original work by [Author Name]. All original content — domain names, vessel rules, setting profiles, and Adaptive Content — is © [Author Name].
+
+This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License. More information can be found at **www.daggerheart.com**.
+
+Darrington Press™ and the Darrington Press authorized work logo are trademarks of Critical Role, LLC and used with permission. Daggerheart™ is a trademark of Critical Role, LLC.
+
+Laserheart is not affiliated with, endorsed by, or sponsored by Critical Role, LLC or Darrington Press. This document does not reproduce the Daggerheart rulebook and requires the Daggerheart Core Set or SRD to play.
+
+DRAFT DOCUMENT — NOT FOR DISTRIBUTION — v0.3
+:::

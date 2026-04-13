@@ -1,0 +1,48 @@
+# Vessels (Ships & Vehicles)
+
+Vessels are shared character sheets maintained collectively by the crew. They don't participate in the same way individual characters do — they don't roll Hope or Fear dice on their own. Instead, the crew rolls and the vessel's stats modify outcomes, provide resources, and can be damaged or upgraded over the course of a campaign.
+
+Vessels use a simplified stat block designed to feel like a lightweight Daggerheart character — familiar structure, minimal overhead.
+
+## Vessel Stats
+
+| Stat      | Meaning                                      | Used When                                                |
+|-----------|----------------------------------------------|----------------------------------------------------------|
+| Hull      | Hit Points for the vessel                    | Taking damage in combat or hazardous environments        |
+| Speed     | Modifier to piloting and evasion rolls       | Chases, initiative in vessel encounters, evasive action  |
+| Armor     | Damage reduction applied before Hull loss    | When the vessel takes a hit                              |
+| Systems   | Number of active system slots                | Determines how many upgrades/modules can be installed    |
+| Weapons   | Number of weapon hardpoints                  | Limits what ship-scale weapons can be mounted            |
+| Crew Cap. | Maximum effective crew size                  | Determines how many crew actions can be taken per round  |
+| Evasion   | Target number for attacks against the vessel | When enemies target the ship                             |
+| Tier      | Overall vessel power level (1–5)             | Determines starting stat values and upgrade cost         |
+
+## Vessel Combat — The Crew Action System
+
+In vessel combat, the ship doesn't act independently. Instead, each player takes a **Crew Action** on their turn. The number of actions that can actually affect the vessel is limited by **Crew Capacity** — excess crew members can still act personally (boarding, repairs, fire suppression) but cannot add new vessel actions that turn.
+
+**Helm Action**
+: The pilot makes an Action Roll using their Finesse or Instinct. On a Hope result, gain an Advantage token the crew can spend on a future vessel roll. On a Fear result, the GM gains a Fear token.
+
+**Weapons Action**
+: A crew member fires a ship weapon. Roll attack as normal, adding the vessel's weapon modifier. Ship-Scale tag weapons deal damage at vessel scale.
+
+**Systems Action**
+: A crew member operates shields, sensors, ECM, or damage control. Most Systems Actions are handled as Reaction-style rolls triggered by events.
+
+**Boarding/Personal Action**
+: A crew member acts on foot — fighting boarders, making repairs under fire, managing passengers, etc. Uses individual character stats normally.
+
+## Vessel Tiers
+
+| Tier         | Hull | Armor | Speed | Systems | Examples                               |
+|--------------|------|-------|-------|---------|----------------------------------------|
+| T1 — Shuttle |    4 |     0 |    +1 |       2 | Escape pod, courier, atmospheric runabout |
+| T2 — Light   |    8 |     1 |    +2 |       3 | Freighter, patrol craft, scout vessel  |
+| T3 — Medium  |   14 |     2 |    +1 |       4 | Corvette, armed transport, research ship |
+| T4 — Heavy   |   22 |     3 |     0 |       5 | Destroyer, carrier, deep-space cruiser |
+| T5 — Capital |   32 |     4 |    −1 |       6 | Battleship, dreadnought, station-class |
+
+::: {.callout-tip title="GM Guidance — Keeping Ships Simple"}
+Most campaigns will have one Tier 2 or Tier 3 vessel that grows with the crew. Treat Hull damage like HP damage on a character — mark it, describe it, and make repairs feel meaningful. Don't let vessel tracking slow down personal scenes. The ship is a secondary character, not a second game.
+:::

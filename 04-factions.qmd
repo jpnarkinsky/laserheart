@@ -1,0 +1,20 @@
+# Factions
+
+Factions replace Communities. They represent the organization, culture, or ideology that shaped a character's life before the campaign. As with Origins, Faction cards use the same mechanical structure as Daggerheart's Community cards.
+
+The following Factions are deliberately broad. A table running military sci-fi might rename "The Fleet" to their setting's specific navy. A cyberpunk table might lean heavily on "The Syndicate." The mechanics don't change — only the names and flavor.
+
+| Faction        | Archetype                   | Mechanical Theme                                                   |
+|----------------|-----------------------------|--------------------------------------------------------------------|
+| The Fleet      | Military / Navy             | Bonuses to coordinated actions, tactical positioning               |
+| The Syndicate  | Criminal / Corporate        | Bonuses to social manipulation, illicit trade, information         |
+| The Frontier   | Colonist / Explorer         | Bonuses to survival, improvisation, unfamiliar environments        |
+| The Academy    | Scientist / Scholar         | Bonuses to knowledge rolls, research, complex systems              |
+| The Crew       | Independent / Mercenary     | Bonuses to ship operations, adaptability, working without orders   |
+| The Resistance | Revolutionary / Underground | Bonuses to deception, asymmetric tactics, inspiring others         |
+| The Temple     | Mystic / Spiritual Order    | Bonuses to Enhanced Play (if used); meditation, mental fortitude   |
+| The Wastes     | Scavenger / Survivor        | Bonuses to jury-rigging, scavenging, endurance under pressure      |
+
+::: {.callout-note title="GM Guidance — Setting Profiles & Factions"}
+When writing a Setting Profile, your primary job is renaming and describing 3–5 of these Factions to fit your tone. The "Fleet" might be the United Earth Navy in hard sci-fi or the Rebel Alliance analog in space opera. Players will recognize the mechanics immediately and invest in the flavor you provide.
+:::

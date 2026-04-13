@@ -1,0 +1,21 @@
+# Design Philosophy
+
+Laserheart is a science fiction framework built on the Daggerheart SRD. Its purpose is to let a table drop into any sci-fi setting — space opera, military sci-fi, cyberpunk, hard science — without relearning the game. If you know Daggerheart, you can play Laserheart in minutes.
+
+Three principles guide every design decision:
+
+::: {.callout-note title="Principle 01 — Setting Agnostic"}
+No proper nouns. No licensed worlds. Laserheart describes archetypes, not franchises. A "Ranged Sidearm" works in every sci-fi universe; a "DL-44 Heavy Blaster Pistol" only works in one. Players bring their own fiction; Laserheart provides the mechanical scaffolding.
+:::
+
+::: {.callout-tip title="Principle 02 — Close to Home"}
+Wherever possible, Laserheart uses the same mechanical structure as Daggerheart. The Hope/Fear economy, Stress, Evasion, Action Rolls, and the card-based ability system are all preserved. The goal is a new coat of paint, not a new engine.
+:::
+
+::: {.callout-warning title="Principle 03 — Modular by Design"}
+"Enhanced Play" — covering psionics, alien powers, and exotic technology — is an optional module. A table running hard military sci-fi can ignore it entirely. A table running space fantasy can enable it fully. The base system works without it.
+:::
+
+::: {.callout-important title="DPCGL Note"}
+Laserheart is built using content from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License. The Daggerheart™ name is a trademark of Critical Role, LLC and is used with permission per DPCGL terms. Laserheart itself — its original setting text, domain names, vessel rules, and all Adaptive Content — is original creative work by the author.
+:::

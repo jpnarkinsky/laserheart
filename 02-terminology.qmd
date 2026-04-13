@@ -1,0 +1,38 @@
+# Core Terminology
+
+The following table maps Daggerheart's vocabulary to Laserheart's. Where a term carries over unchanged, it is noted as retained. GMs and players familiar with Daggerheart should reference this once at the start of a campaign, then forget it — the terms become intuitive quickly.
+
+| Daggerheart Term | Laserheart Term     | Notes                                              |
+|------------------|---------------------|----------------------------------------------------|
+| Ancestry         | Origin              | Species, synthetic type, or engineered lineage     |
+| Community        | Faction             | Military unit, corp, crew, ideology, or homeworld culture |
+| Class            | Specialization      | Same structure; sci-fi framing only                |
+| Domain           | Domain              | Retained — see Section V for new domain names      |
+| Spellcasting     | Enhanced Abilities  | Optional module; see Section VII                   |
+| Spell            | Program / Protocol  | Only used in Enhanced Play                         |
+| Mana / Stress    | Stress              | Retained                                           |
+| Hope             | Hope                | Retained — universal narrative currency            |
+| Fear             | Fear                | Retained                                           |
+| Evasion          | Evasion             | Retained                                           |
+| Gold / Currency  | Credits             | Generic; tables may rename per setting             |
+| Weapons          | Weapons             | Retained; see weapon tags below                    |
+| Armor            | Armor / Hardsuit    | Retained; cosmetic rename only                     |
+| GM               | GM                  | Retained; "Navigator" is an optional flavor term   |
+| Campaign Frame   | Setting Profile     | Short 1-page guides for specific sci-fi tones      |
+
+## Weapon Tags — Sci-Fi Defaults
+
+Daggerheart's weapon tags carry over with the following sci-fi additions. Existing physical tags (Melee, Ranged, etc.) are all retained.
+
+| Tag        | Meaning                                                | Example Weapons                              |
+|------------|--------------------------------------------------------|----------------------------------------------|
+| Energy     | Deals energy damage; reduced by energy shielding       | Blaster pistol, plasma carbine, phaser       |
+| Kinetic    | Traditional ballistic rounds                           | Slug thrower, gauss rifle, shotgun           |
+| Blade      | Close-quarters edged weapon; may be energy or physical | Vibroblade, mono-knife, energy sword*        |
+| Heavy      | Requires two hands or a mount; slow to aim             | Rotary cannon, missile launcher, rail gun    |
+| Silent     | Does not trigger detection rolls                       | Suppressed pistol, dart gun, mono-wire       |
+| Ship-Scale | Cannot be used against individuals; vessel combat only | Torpedo, point-defense turret, lance beam    |
+
+::: {.callout-note}
+\* Energy swords are standard weapons in base Laserheart. They require no Enhanced Play module.
+:::

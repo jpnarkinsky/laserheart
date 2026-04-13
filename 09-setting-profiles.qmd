@@ -1,0 +1,99 @@
+# Setting Profiles
+
+A Setting Profile is a one-page document that tells a table how to configure Laserheart for a specific sci-fi tone. It doesn't invent a licensed universe — it describes an archetype of that universe and gives the mechanical dials to match. Players bring the fiction; the Profile provides the configuration.
+
+Three sample Setting Profiles are included below. Each can be used as-is or as a template for your own world.
+
+---
+
+```{=html}
+<div class="lh-divider">Profile 01</div>
+```
+
+## Space Opera
+
+::: {.callout-note title="Tone Reference"}
+Heroic crews, ancient conflicts, chosen ones, and galaxy-spanning stakes. The universe is colorful, morality is clear, and dramatic moments happen every session. Think: classic rebellion-vs-empire narratives, swashbuckling pilots, and mystical traditions. Compatible with most space opera franchises without naming any of them.
+:::
+
+- **Enhanced Play:** Enabled. Psionics are a core part of the setting.
+- **Recommended Origins:** Human, Alien (any), Synthetic, Void-Born
+- **Recommended Factions:** The Fleet, The Resistance, The Frontier, The Temple
+- **Rename Credits as:** Galactic Standard / Sector Marks *(optional)*
+- **Weapon Emphasis:** Energy weapons as standard sidearms; Blade weapons common and respected
+- **Vessel Focus:** Tier 2–3 crew vessels; capital ship encounters as set pieces, not player-controlled
+- **GM Tone:** Lean into cinematic moments. Let Hope rolls create legendary moments. Fear should feel like the Empire winning a round, not a death sentence.
+
+---
+
+```{=html}
+<div class="lh-divider">Profile 02</div>
+```
+
+## Military Sci-Fi
+
+::: {.callout-important title="Tone Reference"}
+Soldiers, tactics, squad cohesion, and the cost of war. Equipment matters. Orders come from somewhere. Casualties are permanent. Think: interstellar marine units, colonial defense forces, veterans of brutal alien conflicts. Grim but not hopeless — camaraderie and sacrifice carry the emotional weight.
+:::
+
+- **Enhanced Play:** Disabled. This setting runs on muscle, training, and hardware.
+- **Recommended Origins:** Human, Uplift, Clone (either), Synthetic
+- **Recommended Factions:** The Fleet, The Frontier, The Wastes
+- **Rename Credits as:** Pay / Mil-Scrip *(optional)*
+- **Weapon Emphasis:** Kinetic weapons dominant; Energy as specialist or officer sidearms; Heavy weapons require team coordination
+- **Vessel Focus:** Players may control Tier 3–4 vessels; crew size larger, so lean on Crew Capacity limits
+- **GM Tone:** Fear rolls should carry weight — this is a war. But make Hope feel earned, not handed out. Stress should accumulate and matter.
+
+---
+
+```{=html}
+<div class="lh-divider">Profile 03</div>
+```
+
+## Frontier / Exploration
+
+::: {.callout-tip title="Tone Reference"}
+Uncharted space, first contact, salvage rights, and the vast silence between stars. The characters are small against the universe but significant in their corner of it. Think: independent crews running long-haul routes, xenobiologists cataloguing alien life, settlers carving civilization out of nothing.
+:::
+
+- **Enhanced Play:** Either — GM's call based on whether alien psionic life exists in the setting
+- **Recommended Origins:** Human, Void-Born, Hybrid (Cybernetic), Alien (any)
+- **Recommended Factions:** The Frontier, The Crew, The Academy, The Wastes
+- **Rename Credits as:** Keep Credits; salvage and trade are central
+- **Weapon Emphasis:** Practical; characters carry what they can afford, not what's optimal
+- **Vessel Focus:** The ship *IS* the campaign. Tier 2 vessel, heavily customized. Treat it as a seventh character.
+- **GM Tone:** Discovery and consequence. Strange things happen in unexplored space. Not everything is hostile — but the unknown has weight. Use Fear for isolation and entropy, not just combat.
+
+---
+
+```{=html}
+<div class="lh-divider">Building Your Own</div>
+```
+
+## Custom Setting Profile Template
+
+When writing a Setting Profile for your own world, cover these elements in roughly one page:
+
+**Tone Reference** *(2–3 sentences)*
+: What does this setting feel like? What are its emotional stakes?
+
+**Enhanced Play**
+: Enabled / Disabled / Either
+
+**Recommended Origins**
+: List 3–5 that fit the tone; create custom variants as needed using base templates
+
+**Recommended Factions**
+: List 3–4; rename them to fit your world
+
+**Currency Name**
+: What do they call money here?
+
+**Weapon Emphasis**
+: Which tags are common, rare, or restricted?
+
+**Vessel Focus**
+: What Tier is a typical crew ship? What role do vessels play?
+
+**GM Tone Guidance**
+: 2–3 sentences on how Hope and Fear should feel in this setting

@@ -1,0 +1,162 @@
+# The Resonance Track
+
+```{=html}
+<div class="lh-badge-row">
+  <span class="lh-badge gold">Optional Module</span>
+  <span class="lh-badge red">Enhanced Play Required</span>
+</div>
+```
+
+The Resonance Track is an optional ethical dimension for Psionic characters. It models the slow erosion of self that comes from using mental power as a tool of dominance, fear, or convenience — and the creeping seduction of doing so, because it *works*. It requires Enhanced Play to be enabled, and must be agreed upon at Session Zero like any other optional module.
+
+The track has ten pips. It does not measure how much Psi a character uses — it measures *how* they use it. A Psionic who protects, heals, and supports may never accumulate a single pip regardless of how often they draw on their powers. A Psionic who shortcuts, coerces, and dominates will climb the track whether they use their powers rarely or constantly. The mechanic is entirely about intent and choice.
+
+::: {.callout-important title="Design Intent"}
+The Resonance Track is not a punishment for playing a Psionic. It is a dramatic engine. Corruption makes characters more powerful, which is exactly what makes it tempting. The cost is agency — slowly, then all at once. Tables that want morally uncomplicated Psionic play should leave this module off.
+:::
+
+## The Track
+
+```{=html}
+<div class="resonance-track">
+  <div class="resonance-pips">
+    <div class="pip-group">
+      <div class="pip pip-clear">1</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-clear">2</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-strain">3</div>
+      <div class="pip-label strain">Strain</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-strain">4</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-strain">5</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-fracture">6</div>
+      <div class="pip-label fracture">Fracture</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-fracture">7</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-fracture">8</div>
+    </div>
+    <div class="pip-group">
+      <div class="pip pip-breach">9</div>
+      <div class="pip-label breach">Breach</div>
+    </div>
+    <div class="track-arrow">→</div>
+    <div class="pip-group">
+      <div class="pip pip-consumed">10</div>
+      <div class="pip-label consumed">Consumed</div>
+    </div>
+  </div>
+  <p style="font-size:0.8rem;color:#5a7a99;margin-top:8px;">Track advances on selfish or harmful Psi use. Track recedes through deliberate restraint and meaningful connection.</p>
+</div>
+```
+
+## Thresholds
+
+```{=html}
+<div class="threshold-block strain">
+  <div class="threshold-title">Threshold I — Strain</div>
+  <div class="threshold-pip-range">PIPS 3–5</div>
+```
+
+The Psionic begins to show signs of resonance bleed — the mental and emotional residue of minds they have touched or overridden. These are subtle, involuntary, and deeply unsettling to those who notice them.
+
+- **Tell:** The GM assigns a physical or behavioral tell (eyes that briefly reflect the target's expression, involuntary mimicry of a dominated target's speech patterns, nosebleeds on emotional stress). This is permanent for as long as the character remains at Strain or above.
+- **Resonance Dreams:** Once per session, the GM may describe a dream or waking vision the character experiences — a fragment of someone they dominated or harmed. This has no mechanical effect but must be roleplayed.
+- **Power Surge:** Once per session, the character may push a [PSI] ability beyond its normal parameters. Describe an enhanced effect. The GM does not spend a Fear token for this — but marks one pip on the track.
+
+```{=html}
+</div>
+
+<div class="threshold-block fracture">
+  <div class="threshold-title">Threshold II — Fracture</div>
+  <div class="threshold-pip-range">PIPS 6–8</div>
+```
+
+The boundary between the character's will and their power begins to blur. Psionic abilities start exceeding intent — not catastrophically, but enough that the character is no longer entirely in control of what they reach for. In exchange, they are becoming genuinely formidable.
+
+- **Overflow:** Whenever the character uses a [PSI] ability and rolls with Fear, the GM may add a secondary unintended effect — an innocent bystander is emotionally affected, a targeted mind catches a fragment of the character's own thoughts, a nearby object moves. The player describes the ability; the GM describes the overflow.
+- **Fractured Restraint:** Once per scene, when the character chooses *not* to use a [PSI] ability that would have solved a problem, they must make a Presence roll. On a failure, they use it anyway — involuntarily. The GM narrates how.
+- **Amplified Power:** All [PSI] damage and effect rolls gain +1d6. This bonus cannot be removed while at Fracture or above.
+- **Shared Authorship:** The GM may suggest (not dictate) how the character's Psi powers manifest in any given scene. The player can override this suggestion, but doing so costs 1 Hope.
+
+```{=html}
+</div>
+
+<div class="threshold-block breach">
+  <div class="threshold-title">Threshold III — Breach</div>
+  <div class="threshold-pip-range">PIP 9</div>
+```
+
+The character is still themselves — but only barely, and only when they choose to be. Their Psionic abilities have grown beyond what most practitioners ever achieve. The cost is that the power is no longer purely theirs to direct.
+
+- **Co-Piloted Psi:** Whenever the character uses any [PSI] ability, the GM has equal narrative authority over how that ability manifests. The player declares intent; the GM declares execution. Both must be honored — the intent is achieved, but the method may differ significantly.
+- **Sovereign Will *(Active)*:** Once per session, the player may assert full personal control over a single [PSI] use, overriding Co-Piloted Psi entirely. Describe it as an act of tremendous internal effort. This costs 2 Stress.
+- **Psionic Apex:** The character gains access to one ability from the Psionic Domain one tier above their current level. This ability is always available and costs no resources. The GM chooses which ability.
+- **The Pull:** At the start of each scene, the GM privately notes one character, object, or piece of information in the scene that the Resonance "wants" the Psionic to act on. The player does not know what it is. If the character acts on it without being told — whether by coincidence or instinct — mark one pip.
+
+```{=html}
+</div>
+
+<div class="threshold-block consumed">
+  <div class="threshold-title">Consumed</div>
+  <div class="threshold-pip-range">PIP 10 — CHARACTER EXIT</div>
+```
+
+The character's sense of self has dissolved into their Psionic resonance. They are no longer playing their character — they are playing the echo of who that character used to be, now used as a vessel by something larger and less personal.
+
+- **Transition Scene:** The player and GM co-author a final scene for the character. This scene should be earned — it is not a death, it is a transformation. The character does something that only they could do, and then they are gone in the way that feels true to the story.
+- **The Consumed NPC:** The character becomes a recurring figure in the campaign — powerful, alien, and stripped of the attachments that defined them. They may help the party, oppose them, or simply exist as a reminder. The GM controls them, but the original player may be consulted for flavor.
+- **New Character:** The player immediately creates a new character. Their new character may have a personal connection to the Consumed — a former ally, a student, someone who saw what happened and was changed by it.
+
+```{=html}
+</div>
+```
+
+## Gaining and Losing Pips
+
+| Gain a Pip When...                                                                              | Lose a Pip When...                                                                                       |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Using [PSI] to coerce, dominate, or override another's will without consent                     | Choosing not to use [PSI] when it was the easiest solution and the character knew it                     |
+| Using [PSI] to harm someone who posed no immediate threat to the character or their allies      | Completing a meaningful rest that includes genuine connection with another character (not just downtime)  |
+| Using [PSI] to take something — information, advantage, safety — at someone else's direct expense | Spending a scene actively helping someone with no Psionic involvement and no personal gain             |
+| Accepting the Power Surge benefit at Strain threshold                                           | Accepting a significant cost (injury, loss, missed opportunity) to avoid using [PSI] in a moment of temptation |
+| Using [PSI] on an ally without their knowledge or permission                                    | A moment of genuine, witnessed vulnerability — the character admits they are afraid of what they are becoming |
+
+::: {.callout-note title="GM Guidance — Judgment Calls"}
+The pip table above is a guide, not a checklist. The GM and player should discuss borderline cases openly — ideally before they arise. The most important question is always: *was this the easy path, or the right one?* A character who uses Psi to protect someone vulnerable hasn't gained a pip, even if it hurt the target. A character who uses Psi to avoid an uncomfortable conversation probably has.
+:::
+
+## The Temptation Mechanic
+
+Once per session, when a character is facing a meaningful obstacle, the GM may offer a **Temptation**: a clear description of how a [PSI] ability could resolve the situation immediately and completely. The GM describes the outcome in full — how it would work, what it would achieve, why it would be effective.
+
+If the player takes the Temptation, the effect occurs exactly as described. Mark one pip. If the player declines, they receive 1 Hope — the narrative acknowledgment that restraint has its own power.
+
+::: {.callout-tip title="Design Note — The Temptation Is Always Real"}
+The GM's Temptation offer must be genuine. It cannot be a trap where the described outcome secretly fails or causes harm the character couldn't anticipate. The whole point is that it *works* — and the character chose it anyway, or didn't. A Temptation that secretly punishes the player for accepting it undermines the entire mechanic.
+:::
+
+## Recovery — Pulling Back From the Edge
+
+Pips are lost slowly and deliberately. Recovery is not a mechanical transaction — it is a narrative arc. A character trying to pull back from Fracture or Breach should have scenes dedicated to that effort: conversations about what they've done, moments of self-imposed restraint under pressure, relationships that remind them who they are.
+
+A character cannot lose more than one pip per session through deliberate effort alone. Exceptional roleplay — a scene that genuinely moves the table — may earn a second pip loss at the GM's discretion. Recovery from Breach to Fracture should feel like an achievement, not a cooldown.
+
+::: {.callout-warning title="Session Zero Questions — Resonance Track"}
+If using this module, discuss these questions before play begins:
+
+- Are we comfortable with the GM having narrative co-authorship of a player's character at Breach?
+- What does "meaningful connection" look like at this table — what counts for pip recovery?
+- If a character reaches Consumed, how involved does that player want to be in the NPC version going forward?
+- Is the Temptation mechanic something we want in every session, or only at key dramatic moments?
+:::

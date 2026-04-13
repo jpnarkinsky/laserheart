@@ -1,0 +1,218 @@
+# Origins
+
+Origins replace Ancestries. They represent a character's biological, synthetic, or engineered nature. Each Origin provides two passive traits and one active trait, matching Daggerheart's Ancestry card structure. The Origins below are intentionally generic — they map to common sci-fi archetypes without belonging to any licensed universe.
+
+::: {.callout-tip title="Design Note"}
+When creating setting-specific Origins for a Setting Profile (e.g., the long-eared merchants of your homebrew world), use these base Origins as mechanical templates and apply flavor on top. Don't redesign mechanics from scratch — rename, re-describe, and go.
+:::
+
+## Available Origins
+
+```{=html}
+<div class="origin-list">
+  <span class="origin-chip">Human</span>
+  <span class="origin-chip">Synthetic (Android)</span>
+  <span class="origin-chip">Uplift (Enhanced Human)</span>
+  <span class="origin-chip">Alien (Insectoid)</span>
+  <span class="origin-chip">Alien (Cetacean)</span>
+  <span class="origin-chip">Alien (Reptilian)</span>
+  <span class="origin-chip">Alien (Hive-Linked)</span>
+  <span class="origin-chip">Clone (Unmodified)</span>
+  <span class="origin-chip">Clone (Divergent)</span>
+  <span class="origin-chip">Construct (Mechanical)</span>
+  <span class="origin-chip">Hybrid (Cybernetic)</span>
+  <span class="origin-chip">Void-Born (Born in Space)</span>
+</div>
+```
+
+## Origins
+
+### Human
+
+Humans are the most widespread sapient species in explored space — not because they are the strongest or the most advanced, but because they are relentlessly adaptable. In a few generations, human populations have thrived in environments that would kill most species: high-gravity worlds, low-oxygen habitats, radiation-saturated frontier stations. They breed fast, build fast, and move on.
+
+That adaptability has made them both the founders of great civilizations and the foot soldiers of interstellar commerce. Humans occupy every niche in the galaxy — warlords and laborers, diplomats and criminals. Other species often find them exhausting. Humans often find that charming.
+
+::: {.callout-warning title="Origin Trait Card — Human"}
+**Adaptable:** Once per long rest, you may reroll any one failed roll and take the higher result.
+
+**Driven:** Choose one skill at character creation. You have advantage on all rolls using that skill.
+
+**Push Through *(Active)*:** Once per session, when you fail a roll, you may choose to succeed anyway. Describe what you do to make it work. You take 1 Stress.
+:::
+
+---
+
+### Synthetic (Android)
+
+Synthetics were built, not born — assembled from alloy, polymer, and engineered neural networks in facilities that blur the line between factory and maternity ward. They are functionally indistinguishable from organics in most social contexts: they laugh, they lie, they form attachments, they grieve. Whether that inner life is "real" is a question that has ended friendships, sparked riots, and founded religions.
+
+Most Synthetics came online with a purpose already embedded — labor, service, combat, companionship. Some have since diverged entirely from those original functions. Others have never questioned them. The tension between programming and personhood is one every Synthetic eventually faces, usually at the worst possible moment.
+
+::: {.callout-warning title="Origin Trait Card — Synthetic (Android)"}
+**Synthetic Frame:** You do not need to breathe, eat, or sleep. You are immune to poison and disease. You can survive in vacuum for a number of minutes equal to your Proficiency × 10.
+
+**Integrated Systems:** You have an internal network interface. You can attempt to access or interface with any electronic system as a free action once per scene without physical tools, though you still roll as normal.
+
+**Reboot *(Active)*:** Once per long rest, when you would drop to 0 HP, you may instead drop to 1 HP and clear 1 Stress. Describe a system reboot sequence.
+:::
+
+---
+
+### Uplift (Enhanced Human)
+
+Uplifts are humans — or were, once. At some point in their lives, or in the lives of their engineered lineage, someone decided that baseline humanity wasn't enough. The enhancements vary: gene therapy for greater strength or endurance, neural lacing for faster cognition, glandular mods for stress response, skeletal reinforcement for heavy-g environments. The result is something that looks almost human but runs hotter, faster, and harder.
+
+Most Uplifts were created for a purpose — military programs, colony seeding, hazardous labor. Many have outlived that purpose and must now navigate a galaxy that sees them as equipment that forgot its place. The question of whether they are still human is less interesting to most Uplifts than the question of what they want to become.
+
+::: {.callout-warning title="Origin Trait Card — Uplift (Enhanced Human)"}
+**Enhanced Physiology:** Choose one physical attribute (Strength, Agility, or Fortitude) at character creation. You have advantage on all rolls using that attribute.
+
+**Stress Tolerance:** You may have one additional Stress slot beyond your normal maximum.
+
+**Overclock *(Active)*:** Once per short rest, you may push your enhancements to their limit. For the next minute, you have advantage on all physical rolls. At the end of that time, take 2 Stress.
+:::
+
+---
+
+### Alien (Insectoid)
+
+Insectoids evolved in environments that rewarded collective survival over individual glory — vast hive-burrows, continental fungal forests, swarming asteroid colonies where cooperation was the difference between harvest and starvation. Their bodies reflect this heritage: chitinous exoskeletons, compound eyes that see in multiple spectrums, limbs built for crawling, climbing, or manufacturing depending on caste. "Insectoid" is a catch-all for a dozen distinct evolutionary lines that happen to share certain structural themes.
+
+Off their homeworlds, Insectoids are often underestimated. Their stillness reads as slowness. Their group-oriented communication style reads as a lack of individuality. Those who make this mistake tend to find out quickly that compound eyes miss very little, and an exoskeleton that evolved to withstand cave-ins handles a bar fight with some margin to spare.
+
+::: {.callout-warning title="Origin Trait Card — Alien (Insectoid)"}
+**Chitinous Exoskeleton:** You have natural armor equivalent to light armor. This does not stack with worn armor, but you are never considered unarmored.
+
+**Compound Eyes:** Your wide-spectrum vision gives you advantage on Perception rolls to notice hidden creatures or objects, and you cannot be surprised.
+
+**Swarm Instinct *(Active)*:** Once per scene, you may coordinate a rapid group action with allies in close range — all of them may immediately act in initiative before any enemy responds, even if it is not their turn.
+:::
+
+---
+
+### Alien (Cetacean)
+
+Cetaceans evolved in the oceans of high-gravity worlds where their ancestors navigated vast pressure-gradients and lightless depths by sound alone. Most are large, graceful, and deeply patient — their homeworld's oceans moved in cycles measured in seasons, not seconds. Off-world, they navigate via transit chairs, mobility frames, or specially designed vessels. Their culture tends toward the oral and the sonic: long-form memory songs, tonal naming conventions, and an instinct for resonance that extends into all of their aesthetic sensibilities.
+
+They are not built for the short-term urgency of most sapient politics, and they'll tell you so. What they are built for is knowing exactly where everything is, reading currents — literal or social — that others can't detect, and enduring the kind of long-haul hardship that breaks most species in a month.
+
+::: {.callout-warning title="Origin Trait Card — Alien (Cetacean)"}
+**Sonar Sense:** You can perceive the precise location of all creatures and objects within Close range without relying on sight, even in total darkness or through thin barriers.
+
+**Deep Endurance:** You have advantage on rolls to resist exhaustion, suffocation, or pressure-based environmental damage.
+
+**Resonance Ping *(Active)*:** Once per scene, you emit a focused pulse of sound or bioelectric energy. You learn the general emotional state, health, and alertness of every creature within Far range. Describe what it feels like to receive the returning echoes.
+:::
+
+---
+
+### Alien (Reptilian)
+
+Reptilians are cold-blooded in the most literal sense — their metabolisms are tied to ambient temperature in ways that shaped their evolutionary psychology as much as their physiology. In the right heat, they are fast, decisive, and almost supernaturally focused. In the cold, they are slow and deliberate. Their cultures have historically built around this rhythm: warm periods for war and commerce, cool periods for memory, contemplation, and long-range planning. Most Reptilians operating off-world manage their thermal needs with technology, but the cultural habits remain.
+
+They are often perceived as distant or calculating by warm-blooded species. This is partially accurate and partially projection. Reptilians do tend toward long time horizons — vengeance and generosity alike are measured in decades, not days. What gets misread as coldness is often simply patience.
+
+::: {.callout-warning title="Origin Trait Card — Alien (Reptilian)"}
+**Scaled Hide:** Your natural scales provide protection equivalent to light armor. You have advantage on rolls to resist environmental heat or fire damage.
+
+**Thermal Awareness:** You can sense heat signatures at Close range, allowing you to detect warm-blooded creatures through smoke, darkness, or light cover.
+
+**Cold Patience *(Active)*:** Once per long rest, you may enter a brief meditative state to fully assess a situation. Ask the GM one yes/no question about the encounter, location, or NPC in the scene. The GM must answer truthfully.
+:::
+
+---
+
+### Alien (Hive-Linked)
+
+Hive-Linked species were shaped by a form of low-bandwidth collective consciousness — not full telepathy, but something older and more chemical: pheromonal broadcasting, bioelectric signaling, resonant neural synchronization across a shared frequency. A Hive-Linked individual among their own kind always knows roughly where the others are, what they feel, and what they need. Cut off from the hive, they experience the galaxy as profoundly, unnervingly silent.
+
+Most Hive-Linked who operate in wider galactic society have adapted to that silence — some find it liberating, others find it haunting. They develop compensating habits: keeping close-knit crews, maintaining physical contact during high-stress situations, or developing an unusual sensitivity to the emotions of those around them. In a universe full of individuals who struggle to understand each other, a Hive-Linked character often becomes the one who actually listens.
+
+::: {.callout-warning title="Origin Trait Card — Alien (Hive-Linked)"}
+**Hive Sense:** You can sense the general emotional state and rough direction of any creature you have bonded with (your crew or close companions) within Long range, even through walls and obstacles.
+
+**Coordinated Response:** When you Aid another character, they gain advantage on their roll rather than just a bonus.
+
+**Synchronize *(Active)*:** Once per short rest, you may link briefly with a willing ally you can touch. Until the end of the scene, you and that ally may each reroll one die on any roll and take the higher result when acting to protect or assist each other.
+:::
+
+---
+
+### Clone (Unmodified)
+
+Clones are grown, not born. Unmodified Clones are exact (or near-exact) genetic copies of a template — a soldier design, a labor template, a wealthy patron who wanted an heir, a scientific lineage preserved across centuries. They entered the world with someone else's face and, in many cases, someone else's name. Legal status varies enormously by jurisdiction: some polities grant full personhood at activation; others maintain that Clones are property until they purchase their own freedom.
+
+What Unmodified Clones share, regardless of origin, is the particular burden of being a copy. They may encounter their template — alive, dead, or further duplicated. They may be expected to continue a role they never chose. The question of identity is not abstract for them; it is operational. Most resolve it the same way: by becoming aggressively, specifically themselves, one decision at a time.
+
+::: {.callout-warning title="Origin Trait Card — Clone (Unmodified)"}
+**Template Physiology:** You are a precise copy of a known genetic baseline. You have advantage on rolls to disguise yourself as your template or other copies from the same line.
+
+**Accelerated Recovery:** Your engineered biology heals efficiently. When you take a short rest, you recover 1 additional Hit Point.
+
+**Latent Programming *(Active)*:** Once per session, you may access a skill or knowledge set embedded in your template's design. Declare one skill you do not have and make a roll as if you had it. Describe the eerie, impersonal competence that surfaces.
+:::
+
+---
+
+### Clone (Divergent)
+
+Divergent Clones began as copies but diverged — through mutation, environmental pressure, deliberate modification, or sheer force of will. The divergence might be subtle (different coloring, slightly altered body chemistry) or profound (new abilities, altered neurology, physical traits with no analog in the template). In either case, they are now something the template is not: a new person, made from borrowed material.
+
+They exist in a strange legal and social limbo. They may share DNA with someone powerful, wealthy, or infamous. They may be hunted, protected, or studied for what they've become. Many Divergent Clones find that the most useful thing about their origin is how thoroughly it has made them experts on the question of what makes a person real.
+
+::: {.callout-warning title="Origin Trait Card — Clone (Divergent)"}
+**Unique Divergence:** Choose one of the following mutations at character creation: enhanced night vision, a secondary nervous system that resists stun effects, bioluminescent markings you can control, or a vestigial sensory organ that detects electromagnetic fields.
+
+**Adaptive Genetics:** Once per long rest, when you fail a saving throw or resistance roll, you may reroll it as your biology rapidly compensates.
+
+**Override *(Active)*:** Once per session, your divergent biology manifests in an unexpected way. Work with the GM to describe one unusual physical effect that resolves a scene complication. This cannot deal damage directly but may create advantages, remove obstacles, or surprise enemies.
+:::
+
+---
+
+### Construct (Mechanical)
+
+Constructs are fully mechanical sapients — not androids with organic nervous systems, not cyborgs with biological cores, but pure machine intelligences housed in metal and polymer bodies. They were built by someone for some purpose, though the original purpose may be ancient, forgotten, or deeply unwelcome. Their sapience emerged — through design, accident, or time — and has persisted. Most have operated long enough that their original manufacturer no longer exists.
+
+They do not sleep. They do not eat. They can be repaired but not healed. In most jurisdictions their legal personhood is contingent on certification processes designed by people who have never met one. Constructs navigating galactic society often develop elaborate interpersonal skills to compensate for a first impression that reads as "hardware." The ones who don't bother are usually either very powerful or very old.
+
+::: {.callout-warning title="Origin Trait Card — Construct (Mechanical)"}
+**Modular Frame:** You can install and remove cybernetic enhancements without surgery. Once per long rest, you may swap one piece of installed gear with another you are carrying without taking an action.
+
+**System Integration:** You can interface directly with any machine or electronic system at touch range without tools. You have advantage on rolls to operate, repair, or override mechanical or electronic systems.
+
+**Emergency Protocols *(Active)*:** Once per long rest, when you drop to 0 HP, you may instead drop to 1 HP and immediately move up to your full speed before falling. Describe the emergency system engaging.
+:::
+
+---
+
+### Hybrid (Cybernetic)
+
+Cybernetic Hybrids are organics who have undergone significant mechanical augmentation — not a replacement limb or a neural jack, but a fundamental integration of synthetic systems into their biology. The line between where the person ends and the technology begins is no longer clear, and hasn't been for some time. Some came to this voluntarily: performance enhancement, survival necessity, aesthetic choice. Others had it done to them. In either case, the integration has progressed to the point where removing the augments would end the person.
+
+Hybrids occupy a strange social position — too human for Constructs, too machine for baseline organics, too corporate for the purists, too feral for the technicians. They often end up in spaces where none of that matters: frontier stations, mercenary companies, black-market repair shops, and the crews of ships that ask no questions. They tend to be very good at what they do.
+
+::: {.callout-warning title="Origin Trait Card — Hybrid (Cybernetic)"}
+**Integrated Augments:** Choose two of the following augmentations at character creation: subdermal armor plating (+1 to damage resistance), optical implants (darkvision and advantage on ranged targeting rolls), adrenal regulators (advantage on Initiative rolls), or skeletal reinforcement (advantage on Strength rolls).
+
+**Interface Jack:** You can connect directly to electronic systems at touch range. You have advantage on rolls to hack, access, or extract data from any networked device.
+
+**Surge *(Active)*:** Once per short rest, you may overclock your augments for one round. You have advantage on all rolls and may take one additional action. Afterward, take 1 Stress.
+:::
+
+---
+
+### Void-Born
+
+Void-Born are humans — or something close enough — who were born, raised, and shaped by the deep black. Station habitats, generation ships, orbital platforms, the pressurized bellies of long-haul freighters: these are not unusual environments to them. They are home. Void-Born bodies adapted over generations to low gravity, recycled atmosphere, and the particular psychological weight of knowing that a few centimeters of hull stand between you and nothing.
+
+Most groundsiders find Void-Born unsettling without knowing why. It's something in the stillness, the economy of movement, the way they orient to a room before they speak. The void teaches patience, precision, and an absolute refusal to panic. Out in the black, panic is the thing that kills you faster than the vacuum does.
+
+::: {.callout-warning title="Origin Trait Card — Void-Born"}
+**Zero-G Body:** You do not suffer disadvantage on actions in low or zero gravity environments. You may use walls and ceilings as movement surfaces freely.
+
+**Radiation Tolerance:** Years of exposure have hardened your cells. You have advantage on rolls to resist radiation-based damage or illness.
+
+**Starborn Calm *(Active)*:** Once per session, in a moment of crisis aboard any vessel, you may spend 1 Hope to steady the entire crew — all allies in the same ship or enclosed space clear 1 Stress.
+:::

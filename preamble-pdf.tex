@@ -1,0 +1,54 @@
+% LASERHEART — PDF Preamble
+% LaTeX customizations for PDF output
+
+% Better table formatting
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+
+% Better spacing
+\usepackage{setspace}
+
+% Color support
+\usepackage{xcolor}
+\definecolor{lhaccent}{HTML}{0088AA}
+\definecolor{lhgold}{HTML}{C4902A}
+\definecolor{lhred}{HTML}{CC3355}
+\definecolor{lhgreen}{HTML}{3A8C3A}
+\definecolor{lhmuted}{HTML}{666677}
+
+% Section heading style
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\color{lhaccent}}
+  {\chaptertitlename\ \thechapter}{12pt}{\Huge}
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\color{lhaccent}}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\color{lhgold}}
+  {\thesubsection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\color{lhmuted}}
+  {\thesubsubsection}{1em}{}
+
+% Callout-like boxes for PDF
+\usepackage{tcolorbox}
+\tcbuselibrary{skins,breakable}
+
+\newtcolorbox{lhcallout}[2][]{
+  colback=gray!5,
+  colframe=lhaccent,
+  fonttitle=\bfseries\small,
+  title={#2},
+  breakable,
+  #1
+}
+
+% No paragraph indent, add spacing instead
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
