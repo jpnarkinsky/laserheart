@@ -4,28 +4,84 @@ Laserheart uses six Domains — the same number as Daggerheart. Each Domain maps
 
 ## The Six Domains
 
-| Domain          | Daggerheart Equivalent                      | Description                                                                                                                                                                          |
-|-----------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Operations      | Grace / Codex                               | Piloting, navigation, electronic warfare, communications, and tactical command. The backbone of any crew. Operations characters keep the ship moving and the team coordinated.        |
-| Warfighter      | Blade / Bone                                | Frontline combat, heavy weapons, boarding actions, and personal defense. Warfighters end fights. They excel in direct engagements and can absorb punishment that would drop anyone else. |
-| Ghost           | Midnight / Splendor                         | Infiltration, social engineering, surveillance, assassination, and identity concealment. Ghosts solve problems before anyone knows there was a problem. Information is their primary weapon. |
-| Tek             | Sage / Arcana                               | Engineering, hacking, medicine, fabrication, and systems expertise. Teks keep everything running — weapons, ships, bodies, and networks. If it can be repaired or broken into, a Tek handles it. |
-| Psionic\*       | Prism / Valor *(Enhanced Play only)*        | Telekinesis, empathy, precognition, mind-linking, and force projection. The Psionic Domain is only available when Enhanced Play is enabled. In standard play, these slots draw from any other Domain. |
-| Voidwalker      | Seraph / Wildblood                          | Survival in extreme environments, alien biology, zero-gravity operations, long-range scouting, and communion with non-human intelligences. Voidwalkers go where no one else can.      |
+Each Domain contains three Specializations, mirroring Daggerheart's class structure. A character selects a Primary and Secondary Domain and draws from both.
 
-## Specializations (Classes)
+### Operations
 
-Each Domain contains three Specializations, mirroring Daggerheart's class structure. Specializations share the same two-Domain draw system — a character selects their Primary and Secondary Domain and draws from both.
+**Daggerheart equivalent:** Grace / Codex
+**Specializations:** Ace *(pilot/driver)*, Signal *(comms/EW specialist)*, Commander *(tactical coordinator)*
 
-| Domain      | Specializations                                                                                        |
-|-------------|--------------------------------------------------------------------------------------------------------|
-| Operations  | Ace *(pilot/driver)*, Signal *(comms/EW specialist)*, Commander *(tactical coordinator)*               |
-| Warfighter  | Enforcer *(heavy front-liner)*, Marksman *(precision ranged)*, Breacher *(close-quarters specialist)*  |
-| Ghost       | Phantom *(infiltration/stealth)*, Fixer *(social/information broker)*, Assassin *(targeted elimination)* |
-| Tek         | Engineer *(fabrication/repair)*, Hacker *(systems intrusion)*, Medic *(battlefield medicine)*          |
-| Psionic\*   | Kinetic *(telekinesis/force)*, Empath *(mind-reading/influence)*, Seer *(precognition/remote sensing)* |
-| Voidwalker  | Ranger *(survival/scouting)*, Xenobiologist *(alien knowledge)*, Drifter *(extreme environment specialist)* |
+Operations is the domain of coordination and control — the art of being in the right place at the right time and making sure everyone else is too. Aces thread ships through debris fields and hostile fire. Signals officers slice through enemy communications while keeping friendly channels alive. Commanders read the battlefield in real time and turn a group of individuals into something that moves like a single organism. Operations characters are often the least visible members of a crew and among the most critical.
+
+What unites the Operations domain is an orientation toward the system rather than the problem directly in front of you. An Operations character isn't thinking about the enemy fighter; they're thinking about where the enemy fighter is going to be, what that means for the rest of the engagement, and how to communicate that to three different people simultaneously. That wide-angle thinking is invaluable in complex situations and occasionally maddening in simple ones.
+
+In play, Operations characters are the connective tissue of the group. They enable other characters to do their jobs better, create advantages out of positioning and information, and keep the team from fracturing under pressure. They tend to be calm under fire — not because they feel less, but because they've trained themselves to think past it.
+
+---
+
+### Warfighter
+
+**Daggerheart equivalent:** Blade / Bone
+**Specializations:** Enforcer *(heavy front-liner)*, Marksman *(precision ranged)*, Breacher *(close-quarters specialist)*
+
+Warfighters are the ones who close with the enemy and end the fight. They carry the heavy weapons, hold the breach, absorb the hits, and keep fighting when every rational calculation says it's time to stop. They are not merely violent — though they can be devastatingly so — they are professionals at violence, which is a different thing. A Warfighter knows when to shoot, what to shoot with, and how to set up the situation so that the shooting is already over when it starts.
+
+The Warfighter domain covers a wide range of physical disciplines: the Enforcer who soaks damage and occupies the enemy's attention, the Marksman who never wastes a shot, the Breacher who transforms confined spaces from a defender's advantage into a killing ground. What they share is a commitment to direct action and the physical confidence to back it up. Warfighters tend to be economical — they say what they mean, move with purpose, and don't spend energy on problems that a well-placed round could solve.
+
+Off the battlefield, Warfighters are often more thoughtful than their reputation suggests. They've seen what violence costs and what it doesn't solve, and the good ones carry that knowledge carefully. In a group, they provide a kind of security that lets everyone else operate — the knowledge that when things go wrong, there's someone in the room who knows what to do next.
+
+---
+
+### Ghost
+
+**Daggerheart equivalent:** Midnight / Splendor
+**Specializations:** Phantom *(infiltration/stealth)*, Fixer *(social/information broker)*, Assassin *(targeted elimination)*
+
+Ghosts work in the space between what people see and what's actually happening. They move through secured facilities, acquire information that isn't for sale, wear identities the way other people wear coats, and remove problems with a precision that leaves nothing behind to explain. The Ghost domain is not about darkness for its own sake — it's about leverage, and the understanding that most problems have a solution that doesn't require anyone to know you were there.
+
+The three Ghost paths share a common philosophy even as they diverge in method. The Phantom trusts silence and patience, slipping past systems and people alike. The Fixer works in plain sight, building networks of obligation and information until they know where every body is buried. The Assassin combines the two into something surgical — not an act of passion but a professional conclusion to a problem that couldn't be resolved any other way. All three understand that the most dangerous moment is the one your target never sees coming.
+
+Ghost characters often have a quality of stillness about them — they listen more than they speak, watch more than they act, and reveal themselves only when they choose to. In a group, they solve problems upstream, before those problems become emergencies. They also tend to be uncomfortable with situations they can't read or control, and they can struggle when directness is genuinely the right answer.
+
+---
+
+### Tek
+
+**Daggerheart equivalent:** Sage / Arcana
+**Specializations:** Engineer *(fabrication/repair)*, Hacker *(systems intrusion)*, Medic *(battlefield medicine)*
+
+Tek is the domain of understanding systems well enough to master them — and systems, in a technological civilization, means almost everything. Engineers keep ships intact and weapons functional. Hackers break into networks and break out of lockdowns. Medics keep organic systems running when they'd rather stop. What the Tek domain requires isn't just technical knowledge; it's the ability to see any sufficiently complex thing as a system with inputs, outputs, and failure modes, and to intervene at exactly the right point.
+
+Characters in the Tek domain tend to have a particular relationship with problems: they want to understand them before they fix them. A Medic who doesn't know why the patient is crashing will stabilize the symptoms; a good Medic figures out the underlying cause. A Hacker who brute-forces a system leaves traces; a careful Hacker understands the architecture well enough to be invisible. This instinct for root causes can be tremendously valuable or profoundly frustrating, depending on how much time there is.
+
+In a crew, Tek characters are the ones who keep everything else possible. They are the reason the ship still flies, the reason the wounded walk away, the reason the enemy's communications went down at the critical moment. They often work best when given a problem and space to solve it, and worst when someone is standing over their shoulder explaining how urgent things are. They already know. They're working.
+
+---
+
+### Psionic *(Enhanced Play only)*
+
+**Daggerheart equivalent:** Prism / Valor
+**Specializations:** Kinetic *(telekinesis/force)*, Empath *(mind-reading/influence)*, Seer *(precognition/remote sensing)*
 
 ::: {.callout-note}
-\* Psionic Specializations require Enhanced Play to be enabled at the table.
+The Psionic Domain is only available when Enhanced Play is enabled at the table. In standard play, these card slots draw from any other Domain.
 :::
+
+The Psionic domain exists at the edge of what most people believe is possible. Whether the result of mutation, training, alien contact, experimental enhancement, or something older and stranger, Psionics demonstrate that the boundary between mind and matter is more permeable than the mainstream would like to admit. They move objects without touching them, sense emotional states and surface thoughts, perceive events at a distance, and in some cases reach into the future — not to read it, but to feel the weight of what's coming.
+
+The three Psionic paths represent different relationships with that permeability. Kinetics impose their will outward, bending the physical world to match their intent. Empaths open themselves inward, taking in what others feel and think, influencing minds with a subtlety that other domains can't match. Seers reach sideways through time, glimpsing what was and what might be — a gift that is rarely comfortable and never precise. All three operate in a space that makes most people uneasy, and Psionic characters learn early that discretion is as important as capability.
+
+In play, Psionic characters change the texture of the game when Enhanced Play is enabled. They provide options that don't exist otherwise — information gathered without contact, influence exerted without words, threats neutralized before they manifest. They also carry a cost: psionic ability tends to make its wielder strange, not in a dramatic way, but in the accumulating sense that they perceive the world differently and can't always explain why they know what they know.
+
+---
+
+### Voidwalker
+
+**Daggerheart equivalent:** Seraph / Wildblood
+**Specializations:** Ranger *(survival/scouting)*, Xenobiologist *(alien knowledge)*, Drifter *(extreme environment specialist)*
+
+Voidwalkers go where civilization ends and stay there. Rangers track across environments that would kill an unprepared person in hours. Xenobiologists study life forms that operate on principles human biology never anticipated. Drifters have learned to work in zero gravity, hard vacuum, toxic atmospheres, and pressures that should be lethal — and have picked up, along the way, a quality of deep environmental awareness that's impossible to teach in a classroom. The Voidwalker domain is about operating at the edge, where the rules are different and the margin for error is zero.
+
+What shapes a Voidwalker is sustained exposure to the alien — in environment, biology, or both. They've learned to read situations without familiar reference points, to assess danger through senses and instincts that most people never develop, and to find resources in places that look barren to everyone else. They tend to be comfortable with uncertainty in a way that can seem unsettling to those who've spent their lives in controlled environments. The void teaches patience. Things move on their own schedule out there.
+
+In a group, Voidwalkers are the ones who can go where no one else can, make contact with what no one else can approach, and survive situations that would end the mission for anyone else. They are often the first into an unknown environment and the last out. Off the edge of the map, they are exactly what the crew needs. Back in civilization, they can feel slightly out of phase — present, capable, but oriented toward a horizon that other people can't quite see.

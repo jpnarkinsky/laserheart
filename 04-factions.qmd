@@ -4,16 +4,109 @@ Factions replace Communities. They represent the organization, culture, or ideol
 
 The following Factions are deliberately broad. A table running military sci-fi might rename "The Fleet" to their setting's specific navy. A cyberpunk table might lean heavily on "The Syndicate." The mechanics don't change — only the names and flavor.
 
-| Faction        | Archetype                   | Mechanical Theme                                                   |
-|----------------|-----------------------------|--------------------------------------------------------------------|
-| The Fleet      | Military / Navy             | Bonuses to coordinated actions, tactical positioning               |
-| The Syndicate  | Criminal / Corporate        | Bonuses to social manipulation, illicit trade, information         |
-| The Frontier   | Colonist / Explorer         | Bonuses to survival, improvisation, unfamiliar environments        |
-| The Academy    | Scientist / Scholar         | Bonuses to knowledge rolls, research, complex systems              |
-| The Crew       | Independent / Mercenary     | Bonuses to ship operations, adaptability, working without orders   |
-| The Resistance | Revolutionary / Underground | Bonuses to deception, asymmetric tactics, inspiring others         |
-| The Temple     | Mystic / Spiritual Order    | Bonuses to Enhanced Play (if used); meditation, mental fortitude   |
-| The Wastes     | Scavenger / Survivor        | Bonuses to jury-rigging, scavenging, endurance under pressure      |
+## The Fleet
+
+**Archetype:** Military / Navy
+**Mechanical theme:** Bonuses to coordinated actions, tactical positioning
+
+The Fleet is the organized military arm of whatever power holds the stars — a navy, an expeditionary force, a defense corps. It attracts those who believe in structure, hierarchy, and the security that only overwhelming firepower can provide. Life in the Fleet is regimented: ranks are earned slowly, orders are followed without question, and loyalty is measured not in words but in the body count you stand over for your commanding officer.
+
+Characters shaped by the Fleet carry that discipline into everything they do. They plan before they act, hold the line when others would break, and instinctively read the battlefield for choke points and cover. But they also know how to function as part of something larger than themselves — how to coordinate under fire, how to trust the person on their left to do their job. That trust can be the Fleet's greatest strength, or, when the chain of command breaks down, its most devastating vulnerability.
+
+Ex-Fleet characters often carry complicated feelings about the institution that shaped them. Some left because they believed in the mission but not the people giving orders. Others were pushed out — cashiered, wounded, disillusioned. A rare few walk away clean, their service complete, their conscience intact. Whatever brought them to the table, they bring a soldier's instincts and a veteran's weight.
+
+---
+
+## The Syndicate
+
+**Archetype:** Criminal / Corporate
+**Mechanical theme:** Bonuses to social manipulation, illicit trade, information
+
+The Syndicate operates wherever legal authority is thin and profit margins are thick — cartels, megacorporations, intelligence networks, black markets. It is held together not by ideology but by mutual benefit, and its members understand that the most dangerous person in any room is the one who knows where the money goes. Trust inside the Syndicate is transactional. Loyalty has a price. Everyone is always networking, always three steps ahead, always watching for the angle.
+
+Characters who came up through the Syndicate are survivors of a different kind of battlefield — one where the weapons are leverage, secrets, and charm. They know how to read a room, how to make people want things, and how to be useful enough to stay alive. They've learned that information is currency, that silence is often more valuable than speech, and that the best deal is the one the other party doesn't realize they're losing.
+
+Outside the Syndicate, these characters can seem slippery or hard to trust — because they are, a little. Old habits die hard. But they also know things others don't, can move through underworld networks with ease, and understand that sometimes the job requires getting your hands dirty in ways that leave no official record.
+
+---
+
+## The Frontier
+
+**Archetype:** Colonist / Explorer
+**Mechanical theme:** Bonuses to survival, improvisation, unfamiliar environments
+
+The Frontier drew its people with the promise of open space — new planets, unclaimed systems, the dream of building something from nothing. It is less an organization than a culture: settlers, surveyors, independent station operators, deep-range scouts. Life on the Frontier means solving problems with whatever you have on hand, because resupply is months away and asking for help is not always an option.
+
+Characters from the Frontier are adaptable above almost everything else. They've made camp on worlds that wanted to kill them, negotiated with species that didn't share their language, and kept ancient equipment running long past its manufacturer's warranty. They tend to be resourceful, self-reliant, and quietly proud of both — sometimes to a fault. They can struggle with crowded cities, bureaucratic structures, or situations where the correct answer is "wait for someone else to handle it."
+
+But they also carry a rare quality: genuine wonder. Where others see a strange planet as a threat or a resource, Frontier characters see a puzzle, an adventure, a story worth telling. They carry their old frontier instincts into every new situation, looking for the edges of the map and asking what might be beyond them.
+
+---
+
+## The Academy
+
+**Archetype:** Scientist / Scholar
+**Mechanical theme:** Bonuses to knowledge rolls, research, complex systems
+
+The Academy — whatever form it takes in a given setting — is the steward of knowledge. It might be a university, a research institute, a monastic order of scholars, or a corporate R&D division. What unites its members is the belief that understanding is the highest virtue, and that the universe rewards those who ask the right questions.
+
+Characters trained by the Academy approach problems systematically. They gather data before acting, build mental models, and look for underlying patterns that others miss. They are often the person who knew the answer three minutes ago but waited to be asked, or who spotted the flaw in the plan that everyone else missed. That analytical edge comes with a certain detachment — the Academy trains people to study things, and sometimes "things" accidentally includes people.
+
+Outside academic structures, these characters must learn to act on incomplete information, to trust gut instinct alongside evidence, and to accept that some questions don't have clean answers. But when the problem is genuinely complex — when the system is unknown, the stakes are high, and nobody else has any idea what's happening — the person from the Academy is the one the group turns to.
+
+---
+
+## The Crew
+
+**Archetype:** Independent / Mercenary
+**Mechanical theme:** Bonuses to ship operations, adaptability, working without orders
+
+The Crew isn't a faction in the political sense — it's an attitude. These are the independents: freelancers, merchant spacers, salvagers, hired hands who've worked enough contracts to have opinions about everything and allegiances to almost nothing. The Crew values competence, flexibility, and the ability to get the job done without needing someone to explain why.
+
+What unites Crew characters is the experience of working on small ships with small teams, where everyone pulls multiple jobs and nobody has the luxury of being useless. They've been cargo haulers, bodyguards, pilots, cooks, and occasional smugglers, sometimes all on the same run. They know how ships work from the inside out, and they have an instinct for reading whether a contract is going to go sideways before it does.
+
+Crew characters often have complicated histories — debts, old partners, ports they can't return to, and a few stories they only tell after the third drink. They're not cynical exactly, but they're not idealists either. They believe in the people they're currently working with, in doing the job right, and in getting paid. If those three things align, they'll follow a crew anywhere.
+
+---
+
+## The Resistance
+
+**Archetype:** Revolutionary / Underground
+**Mechanical theme:** Bonuses to deception, asymmetric tactics, inspiring others
+
+The Resistance is born when official channels have failed — when the government is the threat, when the law protects the wrong people, when the only way forward is to become ungovernable. It takes many forms: guerrilla fighters, underground networks, digital activists, exiled cells operating from the margins. What they share is the conviction that the current order must change, and the willingness to pay the cost of trying.
+
+Characters from the Resistance have lived with scarcity, secrecy, and the ever-present risk of discovery. They've learned to communicate in code, to trust slowly and verify constantly, and to find the cracks in systems designed to crush them. They know how to disappear, how to inspire, and how to keep fighting when the cause looks hopeless. They often carry the weight of people they've lost and causes that weren't yet won.
+
+In a group, Resistance characters are natural organizers and agitators — they instinctively look for how to turn any situation to their advantage, how to win over allies, how to sabotage what can't be defeated directly. But they can also struggle with trust, with authority even from people nominally on their side, and with the possibility that the fight might someday actually be over.
+
+---
+
+## The Temple
+
+**Archetype:** Mystic / Spiritual Order
+**Mechanical theme:** Bonuses to Enhanced Play (if used); meditation, mental fortitude
+
+The Temple is the keeper of something older than governments or corporations: a tradition, a practice, a way of understanding what lies beneath the surface of the visible universe. It might be a genuine religious order, a philosophical discipline, a school of psionic training, or a community built around contemplative practice. What its members share is a commitment to inner development as seriously as outer action.
+
+Characters shaped by the Temple have spent significant time in silence, in study, in practices that most people would find either pointless or unsettling. They've learned to still themselves, to observe without reacting, to recognize when they're being driven by fear or ego rather than clear sight. That discipline makes them steady in chaos — hard to rattle, hard to manipulate, hard to break.
+
+But the Temple also exists in tension with the rest of the world, which tends to be loud, impatient, and uninterested in contemplation. Temple characters must navigate that gap constantly — bringing their inner practice to bear on situations that have no patience for it, and deciding again and again whether the tradition they carry is a strength, a constraint, or both.
+
+---
+
+## The Wastes
+
+**Archetype:** Scavenger / Survivor
+**Mechanical theme:** Bonuses to jury-rigging, scavenging, endurance under pressure
+
+The Wastes are what's left after the civilization moves on: ruined stations, dead colonies, toxic planets, the scraps at the edge of inhabited space. The people who grow up there didn't choose the Wastes — the Wastes chose them, by being where they were born, where they were abandoned, or where they ended up when everything else fell through. Survival there is not a skill; it's a constant, grinding negotiation with a universe that is actively indifferent to whether you make it.
+
+Characters from the Wastes know how to stretch nothing into something. They can keep ancient tech functional with improvised parts, find water where none should exist, and read danger in the small signs that comfortable people never learn to notice. They tend to be quiet about their capabilities — in the Wastes, advertising your skills means attracting people who want to take them from you.
+
+Outside the Wastes, these characters often experience the wider world as absurdly wasteful and naively trusting. They have little patience for bureaucracy, institutional hierarchy, or people who've never had to decide between eating and repairing their suit. But they bring something rare: they've already survived the worst. When the group hits bottom, the person from the Wastes is the one who knows there's still a way through.
+
+---
 
 ::: {.callout-note title="GM Guidance — Setting Profiles & Factions"}
 When writing a Setting Profile, your primary job is renaming and describing 3–5 of these Factions to fit your tone. The "Fleet" might be the United Earth Navy in hard sci-fi or the Rebel Alliance analog in space opera. Players will recognize the mechanics immediately and invest in the flavor you provide.
