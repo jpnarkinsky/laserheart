@@ -1,0 +1,158 @@
+# Appendix: Fan Setting Profiles
+
+These profiles adapt Laserheart to five beloved sci-fi universes. None reproduces copyrighted material — they describe the tone, archetypes, and themes of each setting and translate them into Laserheart's mechanical language. Use the franchise you love as your reference; use these profiles to configure the game.
+
+Each profile follows the same format as the core Setting Profiles in Chapter IX.
+
+---
+
+```{=html}
+<div class="lh-divider">Appendix A</div>
+```
+
+## Star Wars
+
+::: {.callout-note title="Tone Reference"}
+Mythic heroes, ancient mystical traditions, galaxy-spanning rebellion against authoritarian empire. Clear moral stakes, colorful alien worlds, and moments of legend. The Force — or your setting's equivalent — shapes destiny. Every session can contain a cinematic turning point. Sacrifice and hope are the twin engines of the story.
+:::
+
+- **Enhanced Play:** Enabled. The mystical tradition (Psionics) is central to the setting — not universal, but ever-present and meaningful.
+- **Recommended Origins:** Human, Alien (any — lean into variety), Synthetic or Construct *(for droid characters)*
+- **Recommended Factions:** The Resistance *(rebels, freedom fighters)*, The Fleet *(empire or republic military)*, The Temple *(mystical order — Jedi, Sith, or any tradition)*, The Syndicate *(crime lords, bounty hunter guilds)*
+- **Rename Credits as:** Credits *(keep as-is — it fits)*
+- **Weapon Emphasis:** Energy weapons are universal sidearms. Energy blade weapons *(lightsabers or equivalents)* are rare, significant, and should feel earned — treat them as Tier 3 items even if mechanically lighter. Kinetic weapons exist but read as primitive or regional.
+- **Vessel Focus:** Tier 2 crew vessels — freighters, couriers, fighter-corvettes. Capital ships (star destroyers, flagships) are environmental set pieces, not player-controlled. Dogfights work well as Tier 1 starfighter sequences.
+- **GM Tone:** Lean into legend. Hope rolls should feel like the Force being with the characters — make them cinematic. Fear should feel like the Empire tightening its grip, not like random misfortune. Stress accumulates from moral compromise as much as combat. Let the mystical tradition (Psionic characters) attract attention from both sides of the conflict.
+
+**Faction Renaming Suggestions:**
+| Laserheart Faction | Star Wars Equivalent |
+|---|---|
+| The Resistance | The Rebel Alliance / Resistance cell |
+| The Fleet | Imperial Navy / Republic Military |
+| The Temple | The Jedi Order / Sith tradition / any Force tradition |
+| The Syndicate | Hutt Cartel / Crimson Dawn / any crime faction |
+| The Crew | Smugglers, freelancers, unaffiliated spacers |
+
+**Psionic Translation Note:** The Force maps cleanly to the Psionic Domain. Kinetic specialization covers telekinesis and combat applications; Empath covers Force sense and mind tricks; Seer covers visions and precognition. The Temple faction pairs naturally with Psionic characters, but Force-sensitive characters from any background are valid — and dramatically interesting.
+
+---
+
+```{=html}
+<div class="lh-divider">Appendix B</div>
+```
+
+## Firefly
+
+::: {.callout-tip title="Tone Reference"}
+A war was fought. The wrong side won. Now the outer planets scrape by under an Alliance that barely acknowledges them, and a small crew on a battered ship takes whatever jobs they can find. This is a western in space: intimate, morally complicated, built on found family and the stubborn refusal to quit. The stakes are personal before they're political.
+:::
+
+- **Enhanced Play:** GM's call. Standard play captures the tone perfectly. If your campaign includes psychic/experimental storylines *(a character who escaped a government program, alien psionic contact on the rim)*, enable Enhanced Play for those characters only and treat it as deeply unsettling rather than heroic.
+- **Recommended Origins:** Human *(dominant — the 'verse is mostly human)*, Void-Born *(spacers who've never touched ground)*, Hybrid (Cybernetic) *(veterans with field modifications)*
+- **Recommended Factions:** The Crew *(the default — independent spacers, no allegiance)*, The Fleet *(the Alliance military, antagonist faction)*, The Frontier *(outer planet settlers, the people the crew helps)*, The Resistance *(Browncoats, veterans, underground operators)*
+- **Rename Credits as:** Credits *(keep)* or Coin / Platinum *(regional flavor)*
+- **Weapon Emphasis:** Practical and mixed. Characters carry what they can afford or scavenge. Kinetic weapons dominate (revolvers, rifles, shotguns with sci-fi aesthetics). Energy weapons exist but read as expensive or Alliance-issue. No blade weapon culture to speak of.
+- **Vessel Focus:** The ship IS the campaign. Tier 2, heavily customized, perpetually underfunded. Treat the vessel as a full character with its own personality — name it, give it recurring repair problems, let its condition reflect the crew's fortunes. Crew Capacity should be tight; everyone has a bunk and a reason to be there.
+- **GM Tone:** Fear should feel like the Alliance closing in, a job going wrong, or the crew fracturing under pressure — not like random cosmic horror. Hope should feel like found family coming through, loyalty over self-interest, doing the right thing when it costs something. Stress accumulates from moral weight. Let the personal stakes drive more sessions than the external threats.
+
+**Faction Renaming Suggestions:**
+| Laserheart Faction | Firefly Equivalent |
+|---|---|
+| The Crew | Independent spacers, any unaffiliated crew |
+| The Fleet | The Alliance (Federal military and bureaucracy) |
+| The Frontier | Rim world settlers, independent colonies |
+| The Resistance | Browncoat remnants, veteran underground |
+| The Syndicate | Crime lords, local strongmen, trafficking networks |
+
+**Setting Note:** The post-war context is load-bearing. Characters from The Resistance (Browncoats) carry loss. Characters from The Fleet may be defectors or deserters. The tension between those histories creates some of the best drama. Let it.
+
+---
+
+```{=html}
+<div class="lh-divider">Appendix C</div>
+```
+
+## Stargate
+
+::: {.callout-important title="Tone Reference"}
+A secret military program discovers that ancient mythology was real, alien, and still ongoing. Small elite teams step through a ring of stone and emerge on worlds where Egyptian gods are warlords, Norse mythology is alien engineering, and every myth has a power structure behind it. Military procedural meets archaeological wonder. Earth is always in the background — always at risk, always worth protecting.
+:::
+
+- **Enhanced Play:** Disabled by default. Alien technology that mimics psionic effects *(sarcophagi, communication stones, Goa'uld symbiotes)* is handled narratively or as gear, not as a Domain. If your campaign features naturally psionic alien species as player characters, enable Enhanced Play for those characters only.
+- **Recommended Origins:** Human *(the teams are mostly human)*, Alien (any) *(for Jaffa-type warriors, Tok'ra operatives, or other allied species)*, Clone (Unmodified) *(for settings involving cloning programs or copied consciousness)*
+- **Recommended Factions:** The Fleet *(the military program — the SGC and its teams)*, The Academy *(civilian scientists and archaeologists embedded with the program)*, The Resistance *(rebel Jaffa, underground allies, occupied peoples)*
+- **Rename Credits as:** Not applicable — the program is military. Gear and resources are issued, earned, or acquired on mission.
+- **Weapon Emphasis:** Kinetic weapons are standard military issue (team members carry what the program provides). Alien energy weapons are exotic, acquired in the field, and prized. Heavy weapons require team coordination. Tech-based solutions *(hacking, reprogramming, overloading)* are often more valuable than firepower.
+- **Vessel Focus:** Secondary. Teams travel by gate, not by ship — vessels appear as antagonist assets or late-campaign resources. When ships matter, they're Tier 4+ capital-class, and the players are unlikely to be flying them. The Tek domain (Engineer, Hacker) becomes critical for interacting with alien systems.
+- **GM Tone:** Structure sessions as missions with a clear objective, an unexpected complication, and a cost. Fear should feel like Earth's exposure, a teammate captured behind enemy lines, or a false god tightening their grip on a planet full of people. Hope should feel like human ingenuity defeating superior technology through cleverness, preparation, or sacrifice. Let the Academy characters (scientists) have moments where knowledge saves the day.
+
+**Faction Renaming Suggestions:**
+| Laserheart Faction | Stargate Equivalent |
+|---|---|
+| The Fleet | The military program and its teams |
+| The Academy | Civilian scientific / archaeological staff |
+| The Resistance | Rebel Jaffa, Tok'ra operatives, underground cells |
+| The Syndicate | Goa'uld-aligned collaborators, black market dealers |
+
+**Two-Track Party Note:** The classic Stargate team combines military (Fleet) and academic (Academy) characters. Build parties that mix these — the tension between "shoot it" and "study it" is a feature, not a bug. The Warfighter/Tek Domain split maps cleanly onto this.
+
+---
+
+```{=html}
+<div class="lh-divider">Appendix D</div>
+```
+
+## Battlestar Galactica
+
+::: {.callout-warning title="Tone Reference"}
+The colonies are gone. What remains is a fleet of ships, a military escort with too few pilots and dwindling ammunition, and approximately fifty thousand human survivors trying to hold civilization together while something that looks exactly like a person dismantles it from within. Survival, identity, faith, and exhaustion. This is the darkest profile in this appendix — and one of the richest.
+:::
+
+- **Enhanced Play:** Disabled for baseline humans. Synthetic characters (Cylon models) may have unusual capabilities — handle these narratively, as characteristics of their model type, rather than through the Psionic Domain. If your campaign includes a storyline around psionic connection or shared visions, introduce it slowly and treat it as deeply unsettling.
+- **Recommended Origins:** Human *(colonial survivors)*, Synthetic (Android) or Clone (Unmodified) *(Cylon characters — see note below)*
+- **Recommended Factions:** The Fleet *(Colonial military — the last functioning command structure)*, The Crew *(civilian fleet — freighters, liners, support vessels)*, The Resistance *(resistance fighters on occupied worlds or internal dissenters)*
+- **Rename Credits as:** Not central — survival economics dominate. Track fuel, food, and ammunition as campaign resources more than credits.
+- **Weapon Emphasis:** Kinetic weapons exclusively. Military-grade firearms. No energy weapons, no blade culture. Ammunition is scarce — this should feel like a resource.
+- **Vessel Focus:** The capital ship and the fleet are the entire setting. Tier 3–4 military vessels and civilian ships of all sizes. The military flagship is home, command, and the last line of defense simultaneously. Starfighter sequences (Tier 1) are frequent and deadly. Unlike other settings, vessel loss should feel permanent and devastating — the fleet cannot be replenished.
+- **GM Tone:** Fear should feel like it's already too late — because sometimes it is. Losses should stick. Hope should be hard-won and fragile: a vote held together, a pilot who made it back, a baby born in the fleet. Stress accumulates relentlessly and players should feel it. Faith versus science is a recurring dramatic axis — don't resolve it. Let the prophecy be ambiguous. Let the Synthetic characters grapple with their nature in play, not just backstory.
+
+**Faction Renaming Suggestions:**
+| Laserheart Faction | BSG Equivalent |
+|---|---|
+| The Fleet | Colonial Military (officers, pilots, marines) |
+| The Crew | Civilian fleet personnel, non-military survivors |
+| The Resistance | Resistance cells, political dissidents, mutineers |
+| The Temple | Religious orders, oracles, those who follow the prophecy |
+
+**Cylon Character Note:** Synthetic (Android) and Clone (Unmodified) origins both work for Cylon player characters. The Synthetic origin emphasizes their physical difference; the Clone origin emphasizes multiple-copy identity and memory. Either can carry the central dramatic question: *what does it mean to be a person?* Decide with the player whether their character knows what they are at the start of the campaign — both choices are dramatically valid.
+
+---
+
+```{=html}
+<div class="lh-divider">Appendix E</div>
+```
+
+## Star Trek
+
+::: {.callout-note title="Tone Reference"}
+The future worked out. Humanity solved its worst problems and went looking for new ones — in the best possible sense. A crew of explorers aboard a Federation starship encounters strange new worlds, first-contact situations, ethical dilemmas with no clean answers, and civilizations that challenge every assumption the characters hold. Combat exists, but diplomacy, science, and moral clarity are the preferred tools.
+:::
+
+- **Enhanced Play:** Either — GM's call based on crew composition. Naturally telepathic species *(Vulcan-type, Betazoid-type)* map cleanly to the Psionic Domain (Empath specialization especially). This is not dramatic or rare in a Trek setting — it's simply part of some species' biology. If your crew includes such a character, enable Enhanced Play for them without fanfare.
+- **Recommended Origins:** Human *(common)*, Alien (any and all — lean heavily into varied Origins as a reflection of Federation diversity)*, Hybrid (Cybernetic) *(for post-assimilation characters or those with significant implants)*
+- **Recommended Factions:** The Fleet *(Starfleet — the dominant framework for almost every character)*, The Academy *(science officers, researchers — many Starfleet characters blend Fleet and Academy)*, The Resistance *(the Maquis, dissident groups, enemies who became allies)*
+- **Rename Credits as:** Credits are largely irrelevant in a Federation setting — the economy is post-scarcity. Use them only for dealings outside Federation space. *(Consider replacing Credits with a Reputation or Influence track for political/diplomatic campaigns.)*
+- **Weapon Emphasis:** Energy weapons only, and combat is a last resort. Stun settings should come up frequently. The most valuable tools are sensors, communicators, and the ship's systems — lean on the Operations and Tek domains heavily. A session where nobody fires a weapon is a success.
+- **Vessel Focus:** The starship is home, laboratory, and diplomatic platform. Tier 3 vessel, well-maintained, crewed by specialists. Away teams (3–6 characters) are the primary action unit — the rest of the ship exists as NPC infrastructure. Give the ship a personality. Let crew members have functional roles aboard it between missions.
+- **GM Tone:** Hope should feel like the Federation's ideals proving themselves under pressure — first contact made peacefully, a conflict resolved without violence, a species understood rather than defeated. Fear should feel like those ideals being tested: the situation where the right answer and the easy answer are different things. Stress comes from ethical weight, not just physical danger. The best Star Trek stories end with the characters changed by what they encountered.
+
+**Faction Renaming Suggestions:**
+| Laserheart Faction | Star Trek Equivalent |
+|---|---|
+| The Fleet | Starfleet (command track, tactical, operations) |
+| The Academy | Starfleet Sciences, research divisions, civilian specialists |
+| The Resistance | The Maquis, dissident factions, reformed antagonists |
+| The Frontier | Colonists, deep-space outpost personnel |
+| The Syndicate | Ferengi trade interests, Orion networks, black market operators |
+
+**Away Team Note:** Trek sessions work best as self-contained missions anchored by a central question — ethical, scientific, or political. Build each session around a situation that has no obvious right answer. The characters' Factions and Origins should inform how they approach the problem differently. A Fleet officer, an Academy scientist, and a Resistance-background character will disagree. That disagreement is the story.

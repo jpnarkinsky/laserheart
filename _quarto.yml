@@ -30,6 +30,8 @@ book:
     - part: "Running the Game"
       chapters:
         - 09-setting-profiles.qmd
+  appendices:
+    - 10-appendix-settings.qmd
 
 format:
   html:

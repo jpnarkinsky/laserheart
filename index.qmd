@@ -45,6 +45,7 @@ Laserheart requires the **Daggerheart Core Set** or access to the **Daggerheart 
 | VII | Enhanced Play Module |
 | VIII | The Resonance Track *(optional)* |
 | IX | Setting Profiles |
+| Appendix A | Fan Setting Profiles *(Star Wars, Firefly, Stargate, BSG, Star Trek)* |
 
 ---
 
