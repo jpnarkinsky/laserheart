@@ -6,25 +6,6 @@ Origins replace Ancestries. They represent a character's biological, synthetic, 
 When creating setting-specific Origins for a Setting Profile (e.g., the long-eared merchants of your homebrew world), use these base Origins as mechanical templates and apply flavor on top. Don't redesign mechanics from scratch — rename, re-describe, and go.
 :::
 
-## Available Origins
-
-```{=html}
-<div class="origin-list">
-  <span class="origin-chip">Human</span>
-  <span class="origin-chip">Synthetic (Android)</span>
-  <span class="origin-chip">Uplift (Enhanced Human)</span>
-  <span class="origin-chip">Alien (Insectoid)</span>
-  <span class="origin-chip">Alien (Cetacean)</span>
-  <span class="origin-chip">Alien (Reptilian)</span>
-  <span class="origin-chip">Alien (Hive-Linked)</span>
-  <span class="origin-chip">Clone (Unmodified)</span>
-  <span class="origin-chip">Clone (Divergent)</span>
-  <span class="origin-chip">Construct (Mechanical)</span>
-  <span class="origin-chip">Hybrid (Cybernetic)</span>
-  <span class="origin-chip">Void-Born (Born in Space)</span>
-</div>
-```
-
 ## Origins
 
 ### Human
