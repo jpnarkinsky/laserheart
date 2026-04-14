@@ -29,7 +29,9 @@ jobs:
           tinytex: true
 
       - name: Install fonts
-        run: tlmgr install sourceserifpro sourcesanspro sourcecodepro
+        run: |
+          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
+          tlmgr install sourceserifpro sourcesanspro sourcecodepro
 
       - name: Render HTML
         run: quarto render --to html
