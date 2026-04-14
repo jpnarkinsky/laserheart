@@ -1,0 +1,99 @@
+# Appendix: Actual Play
+
+The following transcript demonstrates Laserheart mechanics in motion. It is not a rules summary — it is a scene, played at a table, in which the mechanical choices and the fictional ones are inseparable. Read it the way you would read a session report from a group you trust.
+
+The scene is set in a Firefly-tone campaign (see Appendix 1 — Firefly). The GM has set the Fear threshold at 6 for this scene.
+
+---
+
+## The Spoke & Barrel
+
+*Two players — Seren and Mak — are working with the GM to get their crew off Meridian Station before the wrong people notice them. Their contact is an independent cargo runner named Rook who operates out of a bar on the station's lower ring.*
+
+*Seren is playing **Cass**, a Ghost/Fixer from The Crew faction — quick-tongued, knows everyone, keeps her Resistance tattoo covered. Mak is playing **Dex**, a Warfighter/Enforcer and ex-Fleet deserter — quiet, large, and very hard to move.*
+
+---
+
+**GM:** The Spoke & Barrel doesn't have a sign anymore — the original one rusted off years ago and nobody replaced it. The floor is composite plating, half of it patched with whatever was available. Overhead, three separate atmospheric processors are running because none of them work well enough to do the job alone. The bar is full: drifters, haulers, a table of what look like Alliance customs contractors trying not to look like Alliance customs contractors. By the far wall, you spot the man you're looking for. Rook — compact, fifties, a mechanical left hand, the look of someone who has been in exactly this kind of trouble before and is already calculating exits. He's talking to a woman you don't recognize.
+
+**Seren:** Before we approach, I want to read the room. Who is that woman?
+
+**GM:** That's an Insight roll — Presence plus Instinct, difficulty 14. You're trying to make sense of the situation before you step into it.
+
+**Seren:** *(rolls — Hope die shows 9, Fear die shows 4, adds Presence 3)* Twelve total. That's a miss. And the Hope die was higher, so no Fear token for you.
+
+**GM:** You don't get a clean read before Rook notices you and waves you over. You can tell the woman is armed — her posture, the angle she's sitting — but whose side she's on, you can't say. You're already moving.
+
+**Seren:** Fine. We head over.
+
+**GM:** Rook stands as you approach. The woman goes still. "You're the crew off the *Tern?*" Not quite a question.
+
+**Seren:** "Last time I checked. You're Rook?"
+
+**GM:** "Depends who's asking." He glances at Dex. "That's a lot of hardware for a cargo conversation."
+
+**Mak:** I don't say anything. I just look at the woman.
+
+**GM:** She looks back. Give me a Presence roll, Mak — you're trying to hold her attention without escalating. Difficulty 12.
+
+**Mak:** *(rolls — Hope die shows 11, Fear die shows 7, adds Presence 2)* Thirteen. Hope die was higher — success with Hope. I'll mark that token.
+
+**GM:** She holds your gaze but she doesn't reach for anything. Rook relaxes, fractionally. "My associate," he says. "She's not why you're here." He sits. "Sit. Tell me about this cargo."
+
+**Seren:** We sit. I want to lay out the job — three crates, Meridian to Hatch's Rock, no questions, clean handoff. And I want to make it sound more lucrative than dangerous.
+
+**GM:** That's Deception — Finesse-based. You're framing a risky job as a quiet payday. Rook has seen enough of these to smell trouble, so difficulty 15.
+
+**Seren:** *(rolls — Hope die shows 7, Fear die shows 11, adds Finesse 4)* Fifteen exactly. Fear die was higher — that's a success, but you gain a Fear token.
+
+**GM:** *(marks Fear — now at 1)* Rook nods slowly. "Three crates. Hatch's Rock." A pause. "I'll need thirty percent upfront—"
+
+He stops.
+
+The woman is no longer looking at Dex. She's looking at Cass. Specifically at the inside of her left forearm — the sleeve that rode up when she sat down, and the Resistance tattoo underneath it.
+
+*(GM spends a Fear token — Fear moves to 0, but something shifts in the scene.)*
+
+A man at the bar stands up. Then another. Both of them have the patient, unhurried look of people who are paid to wait.
+
+**Seren:** Oh, that's bad.
+
+**GM:** The woman says, quietly: "Cass Varic. There's a standing collection warrant — seven hundred credits, Alliance Enforcement Services." She sets something on the table between you. A warrant chip. "You can make this easy."
+
+**Seren:** I keep my hands still. "You've got the wrong person."
+
+**GM:** "I looked you up twice." She's not bluffing.
+
+**Mak:** I'm going to stand up slowly. No sudden movements. Not reaching for anything. Just — standing.
+
+**GM:** Rook pushes his chair back. He's not running, he's just getting out of the way. Smart man. The two by the bar have stopped moving, watching. The rest of the Spoke & Barrel has gone very quiet. Give me a Presence roll — you're trying to change the geometry of this room just by being in it. Difficulty 13.
+
+**Mak:** *(rolls — Hope die shows 5, Fear die shows 12, adds Presence 2)* Fourteen. Fear die was higher again — success, but you get another Fear token.
+
+**GM:** *(marks Fear — now at 1)* You stand, and the room notices. The two men by the bar exchange a look. They came here for a collection, not a firefight with a large ex-Fleet deserter in a crowded bar with no cover. One of them puts a hand on the bar — not a weapon, just steadying himself while he reconsiders his evening.
+
+The warrant officer doesn't flinch. But Rook, from behind her, says very quietly: "This is bad for business."
+
+**Seren:** I look at her directly. "Whatever they're paying you, we can beat it. And we walk out of here without a body on the floor of your local, which is good for everyone."
+
+**GM:** That's Persuasion — Presence-based. She's not corrupt, but she's practical, and this job just got complicated. Difficulty 16. She's going to resist with her Instinct.
+
+**Seren:** I'm spending a Hope token.
+
+**GM:** That gives you plus one to the roll.
+
+**Seren:** *(rolls — Hope die shows 10, Fear die shows 6, adds Presence 3, plus 1 from Hope spend)* Twenty. Hope die was higher — success with Hope, I get the token back.
+
+**GM:** She holds the warrant chip between two fingers for a long moment. Looks at Cass. Looks at Dex. Looks at the two men by the bar, who are visibly no longer committed to this operation.
+
+She puts the chip back in her pocket.
+
+"I'll need to verify the transfer before you leave the station," she says. "And I'm not cheap."
+
+Rook exhales through his nose. He looks at Cass, then at Dex, then at the half-empty bar that is slowly, cautiously, resuming its business. He picks up his drink.
+
+"Right," he says, in the tone of a man who is extremely tired of other people's problems finding him specifically. "About that thirty percent upfront."
+
+---
+
+*What this scene demonstrates: the Hope/Fear economy running as a tension dial — Fear tokens accumulating from successful-but-costly rolls, then spent by the GM to escalate the situation rather than waiting for combat. The warrant officer was never a combat encounter; she was a Fear spend waiting to happen. Spending Hope on the final social roll turned a long-shot into a clean success — and returning the token keeps Cass resourced for whatever comes next. The ship is docked, the job is alive, and now three people know where the crew is.*
