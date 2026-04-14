@@ -17,6 +17,30 @@ What unites the Operations domain is an orientation toward the system rather tha
 
 In play, Operations characters are the connective tissue of the group. They enable other characters to do their jobs better, create advantages out of positioning and information, and keep the team from fracturing under pressure. They tend to be calm under fire — not because they feel less, but because they've trained themselves to think past it.
 
+#### Ace *(pilot/driver)*
+
+The Ace is the crew's pilot — threading hostile airspace, coaxing every last meter-per-second from a failing drive, and landing on surfaces that weren't designed to be landing pads. An Ace lives in the gap between what a vessel is rated to do and what it can actually be made to do.
+
+- **Combat Pilot:** You may use Agility in place of any other attribute for piloting and evasion rolls. Environmental hazards — debris fields, atmospheric turbulence, sensor jamming — never impose disadvantage on your piloting rolls.
+- **On the Stick:** Once per session, when you fail a piloting roll, you may succeed at cost — the vessel takes 1 Hull damage and you take 1 Stress, but the maneuver succeeds.
+- **Red Line *(Mastery)*:** Once per long rest, push a vessel past its rated limits. For one scene, the vessel's Speed increases by 1 tier and all enemy targeting rolls against it have disadvantage. The vessel takes 2 Hull damage when the scene ends.
+
+#### Signal *(comms/EW specialist)*
+
+The Signal is the crew's eyes and ears across the electromagnetic spectrum — intercepting enemy communications, cutting their coordination, and keeping friendly channels alive under jamming. The Signal rarely fires a weapon; they make it so everyone else hits.
+
+- **Electronic Warfare:** You have advantage on rolls to intercept, jam, spoof, or decrypt communications and electronic systems. Once per scene, you may suppress a single networked system (communications array, automated turret, security scanner) as a free action without a roll.
+- **Signals Intelligence:** When you successfully access an enemy communication network, you may ask the GM one question about enemy positions, intentions, or capabilities. The answer must be truthful.
+- **Ghost Signal *(Mastery)*:** Once per long rest, create a false sensor signature, communication trail, or electronic phantom convincing enough to redirect an enemy force. Work with the GM on scope — but they must honor the broad outcome your deception creates.
+
+#### Commander *(tactical coordinator)*
+
+The Commander sees the battle as a whole — threat priorities, choke points, the moment a flanking route opens. They translate that vision into instructions that make every ally more dangerous and every enemy plan harder to execute.
+
+- **Tactical Assessment:** At the start of any combat encounter, you may spend a moment assessing the situation. Ask the GM two questions from: *What is the biggest threat? What is the enemy's objective? Where is the best defensive position? What is the enemy's weakness?* The GM answers both honestly.
+- **Coordinated Fire:** Once per round, you may grant an ally advantage on their next attack roll by issuing targeting instructions. This costs your reaction but not your action.
+- **Command Presence *(Mastery)*:** Allies within Close range who can hear you gain +1 to all action rolls. Once per session, you may call a full tactical reset — all allies immediately reposition up to their full movement speed, ignoring opportunity attacks.
+
 ---
 
 ### Warfighter
@@ -29,6 +53,30 @@ Warfighters are the ones who close with the enemy and end the fight. They carry 
 The Warfighter domain covers a wide range of physical disciplines: the Enforcer who soaks damage and occupies the enemy's attention, the Marksman who never wastes a shot, the Breacher who transforms confined spaces from a defender's advantage into a killing ground. What they share is a commitment to direct action and the physical confidence to back it up. Warfighters tend to be economical — they say what they mean, move with purpose, and don't spend energy on problems that a well-placed round could solve.
 
 Off the battlefield, Warfighters are often more thoughtful than their reputation suggests. They've seen what violence costs and what it doesn't solve, and the good ones carry that knowledge carefully. In a group, they provide a kind of security that lets everyone else operate — the knowledge that when things go wrong, there's someone in the room who knows what to do next.
+
+#### Enforcer *(heavy front-liner)*
+
+The Enforcer is a wall — absorbing fire, holding ground, and occupying the enemy's attention so everyone else can work. They don't just survive damage; they use it. An Enforcer who is still standing after taking punishment that should have dropped them changes the psychology of a fight.
+
+- **Immovable:** You have advantage on rolls to resist being moved, knocked prone, or grappled. Enemies must succeed on a Strength roll against your Presence to pass through a space you are actively holding.
+- **Suppressive Fire:** When you attack with a heavy weapon, you may choose to suppress rather than damage. Affected enemies must use their next action to move to cover or retreat — they cannot attack while suppressed.
+- **Walking Fortress *(Mastery)*:** Once per session, declare a Fortified Position. While holding it, you cannot be moved or knocked prone, all attacks against you have disadvantage, and allies adjacent to you benefit from your Armor Rating as additional cover.
+
+#### Marksman *(precision ranged)*
+
+The Marksman ends threats before they become problems. They are patient, precise, and deeply comfortable with distance. Where other Warfighters measure effectiveness in damage dealt, the Marksman measures it in engagements that were decided before the enemy knew they were in one.
+
+- **Patience:** If you do not move during your turn, your ranged attacks gain advantage. You may also treat Far range as your effective maximum without penalty, rather than taking disadvantage for distance.
+- **Called Shot:** Once per scene, before rolling, declare a Called Shot on a specific location (joint, weapon, control panel, fuel line). On a hit, you deal normal damage and apply one of: *Disarmed*, *Slowed*, or *Disabled* — the GM interprets the effect for the target type.
+- **Overwatch *(Mastery)*:** Use your action to enter Overwatch. Until your next turn, any enemy that moves within your line of sight triggers a free immediate attack. You may trigger this up to twice before Overwatch ends.
+
+#### Breacher *(close-quarters specialist)*
+
+The Breacher makes confined spaces into weapons. They go through doors first, clear rooms fastest, and fight best when the enemy has nowhere to retreat. In any environment where range advantages collapse, the Breacher becomes the most dangerous person present.
+
+- **Dynamic Entry:** When you enter a new space through a door, hatch, or breach, you may immediately make a free attack against one enemy inside. This attack has advantage if the enemy was unaware of you.
+- **Confined Space Mastery:** You never suffer disadvantage in tight spaces, zero-gravity, or cluttered environments. Enemies who attack you in close quarters take disadvantage on their rolls.
+- **Stack and Clear *(Mastery)*:** Once per scene, coordinate a simultaneous breach with up to two allies. All three of you move through a threshold at once and each make one free attack. If all attacks hit, enemies in the space are Stunned until the end of the following round.
 
 ---
 
@@ -43,6 +91,30 @@ The three Ghost paths share a common philosophy even as they diverge in method. 
 
 Ghost characters often have a quality of stillness about them — they listen more than they speak, watch more than they act, and reveal themselves only when they choose to. In a group, they solve problems upstream, before those problems become emergencies. They also tend to be uncomfortable with situations they can't read or control, and they can struggle when directness is genuinely the right answer.
 
+#### Phantom *(infiltration/stealth)*
+
+The Phantom is the Ghost at its most literal — someone who was never in the room, never on the manifest, never seen. Their work is absence: the guard who didn't raise the alarm, the door that was never opened, the mission that concluded without anyone knowing it had begun.
+
+- **Ghost Protocol:** You have advantage on all rolls to move silently, hide, or avoid detection. When you are hidden and fail a stealth roll by a margin of 1, you may spend 1 Stress to remain hidden rather than being detected.
+- **Shadowstep:** Once per scene, move through an area with active surveillance, guards, or detection systems as though they were not there. The GM may call for one roll at the midpoint; on a failure, you are detected at the far end rather than immediately.
+- **No One Was Here *(Mastery)*:** Once per long rest, you and up to two allies you have prepared may transit an entire encounter zone without triggering detection. You must have scouted the zone in advance. This fails if any party member makes noise, attacks, or interacts with the environment carelessly.
+
+#### Fixer *(social/information broker)*
+
+The Fixer is the Ghost who operates in plain sight — accumulating favors, reading rooms, and knowing exactly who owes what to whom. They solve problems before they require a Phantom or an Assassin, which is to say they solve most problems.
+
+- **The Network:** You maintain a web of contacts across the setting. Once per session, call in a contact for information, a favor, or access to a resource. Contacts have limits — they're not omniscient — but they owe you something and will deliver.
+- **Read the Room:** When you enter a social situation, you may ask the GM: *Who here is most useful to me?* and *Who here is most dangerous to me?* The GM must answer both honestly. You also have advantage on all rolls to detect deception.
+- **The Long Play *(Mastery)*:** Once per campaign arc, reveal that you have been running a long-term manipulation: planted information, a cultivated source, a staged outcome. Work with the GM to retroactively establish what groundwork you laid. The result must be plausible — but you define the goal.
+
+#### Assassin *(targeted elimination)*
+
+The Assassin is the Ghost's sharpest edge — not a blunt instrument, but a scalpel. They don't fight; they conclude. The gap between an Assassin identifying a target and that target no longer being a problem is usually very short and completely invisible.
+
+- **Target Acquisition:** As a free action, designate a target. All your attacks against that target have advantage. You may only designate one target at a time; choosing a new target ends the previous designation.
+- **Clean Kill:** Once per scene, if you attack a designated target who is unaware of you, you automatically deal maximum damage on a hit — do not roll damage dice.
+- **Ghost Round *(Mastery)*:** Once per long rest, make an attack that cannot be traced, witnessed, or attributed. The target takes full damage; no witness present can identify what happened, where it came from, or who was responsible. The GM cannot use this event to establish your identity.
+
 ---
 
 ### Tek
@@ -55,6 +127,30 @@ Tek is the domain of understanding systems well enough to master them — and sy
 Characters in the Tek domain tend to have a particular relationship with problems: they want to understand them before they fix them. A Medic who doesn't know why the patient is crashing will stabilize the symptoms; a good Medic figures out the underlying cause. A Hacker who brute-forces a system leaves traces; a careful Hacker understands the architecture well enough to be invisible. This instinct for root causes can be tremendously valuable or profoundly frustrating, depending on how much time there is.
 
 In a crew, Tek characters are the ones who keep everything else possible. They are the reason the ship still flies, the reason the wounded walk away, the reason the enemy's communications went down at the critical moment. They often work best when given a problem and space to solve it, and worst when someone is standing over their shoulder explaining how urgent things are. They already know. They're working.
+
+#### Engineer *(fabrication/repair)*
+
+The Engineer keeps things running — vessels, weapons, life support, and the improvised device they built forty minutes ago from parts that weren't designed to do what they're now doing. An Engineer's real skill isn't repair; it's seeing what something could be made into.
+
+- **Field Repair:** Once per short rest, restore 1d6 Hull to a vessel or return a broken piece of equipment to functional status. Given a few minutes and available materials, you can fabricate simple tools, explosive devices, or jury-rigged gear from scrap.
+- **Improvised Solutions:** When you have access to salvage or available components, you may build a functional device with a specific purpose — communicator, breaching charge, sensor jammer, emergency beacon — without a supply roll. The device is single-use and fragile.
+- **Breakthrough Engineering *(Mastery)*:** Once per long rest, perform a modification to a vessel, weapon, or piece of gear that exceeds its rated specifications. Work with the GM to define the effect. The modification holds for one scene or one mission before requiring recalibration.
+
+#### Hacker *(systems intrusion)*
+
+The Hacker's battlefield is every networked system in the environment — and in a technological civilization, that means almost everything is the battlefield. A skilled Hacker doesn't break into systems; they come to understand them well enough that the system lets them in willingly.
+
+- **Intrusion Suite:** You have advantage on all rolls to access, manipulate, or disable electronic systems. When you successfully breach a system, you may leave a backdoor — you can re-access the same system later with no roll required.
+- **System Override:** Once per scene, seize control of a networked system instantly — door controls, turret arrays, communications relays, life support. You control it for one scene or until something physically breaks your access.
+- **Zero Day *(Mastery)*:** Once per long rest, deploy an exploit of extraordinary scope: crashing a facility's entire network, locking a capital ship's weapons, or triggering a cascade failure in an enemy command system. The effect must be plausible given the target's technology. The GM determines the full extent but must honor the broad outcome you declare.
+
+#### Medic *(battlefield medicine)*
+
+The Medic is the reason people come back from things they shouldn't. Their work happens under fire, in bad light, with equipment that wasn't designed for what they're using it for — and they do it anyway, because the alternative is unacceptable.
+
+- **Triage Protocol:** When you treat a wounded ally during or immediately after combat, they recover an additional 1d6 HP. Once per short rest, you may stabilize a downed character (0 HP) as a free action if you are adjacent to them.
+- **Combat Pharmacology:** You carry specialized medical compounds. Once per scene, administer a compound that does one of: clears 2 Stress, grants advantage on the target's next physical roll, removes a condition (*Poisoned*, *Stunned*, *Blinded*), or grants 1d6 temporary HP.
+- **Keep Them Fighting *(Mastery)*:** Once per long rest, bring a character from 0 HP to half their maximum HP through emergency field surgery. This takes one uninterrupted minute. The patient may act immediately afterward but takes 1 Stress from the ordeal.
 
 ---
 
@@ -73,6 +169,30 @@ The three Psionic paths represent different relationships with that permeability
 
 In play, Psionic characters change the texture of the game when Enhanced Play is enabled. They provide options that don't exist otherwise — information gathered without contact, influence exerted without words, threats neutralized before they manifest. They also carry a cost: psionic ability tends to make its wielder strange, not in a dramatic way, but in the accumulating sense that they perceive the world differently and can't always explain why they know what they know.
 
+#### Kinetic *(telekinesis/force)*
+
+The Kinetic imposes their will outward. They move things without touching them, deflect incoming fire, and can, when pushed, turn their surroundings into a weapon. In a firefight, a skilled Kinetic is always fighting on multiple fronts simultaneously.
+
+- **Telekinetic Grasp:** You can move objects up to your own body weight at Close range as a free action. In combat, use this to disarm, reposition objects, or manipulate environment without an action roll unless the effect is contested.
+- **Force Application:** Make a psionic attack against a target within Close range, dealing 1d8 force damage. Alternatively, hurl an object (damage scaled by size) or shove a target up to Far range. These require an action roll using your Presence.
+- **Kinetic Surge *(Mastery)*:** Once per long rest, release a massive telekinetic force affecting everything within Close range. Enemies are hurled backward and knocked prone; allies may choose to be excluded. Deal 2d10 force damage to all affected enemies. You take 2 Stress.
+
+#### Empath *(mind-reading/influence)*
+
+The Empath works inward — reading what others feel, sensing deception, and when necessary, reaching into another mind with a precision that makes the Ghost domain look blunt. An Empath rarely needs to know what someone is planning. They already know how the person feels about it.
+
+- **Surface Sense:** You passively sense the general emotional state of any sapient creature within Close range. You always know when someone is lying to you — you may ask the GM "is this person being fully truthful?" and receive an honest answer.
+- **Empathic Touch:** With brief physical contact, or focused attention at Close range, read a creature's surface thoughts: their immediate concern, their emotional state, and whether they intend you harm. The target is unaware this has occurred unless they have psionic resistance.
+- **Influence *(Mastery)*:** Once per long rest, plant a suggestion, compulsion, or false memory in a willing or unresisting mind. The effect must be plausible for the target's psychology. It persists at minimum until the end of the current session.
+
+#### Seer *(precognition/remote sensing)*
+
+The Seer operates ahead of the present moment — never quite in it, always slightly forward, reading threads of probability that no one else can see. This makes them invaluable and occasionally exhausting to be around.
+
+- **Psionic Awareness:** You cannot be surprised. You always act in the first round of combat regardless of initiative. Once per scene, ask the GM *"What is about to happen?"* and receive a one-sentence honest answer.
+- **Remote Viewing:** Once per scene, project your senses to a location you have visited or can clearly visualize. You perceive it in real time for up to one minute. You are unaware of your immediate surroundings while doing so.
+- **The Thread *(Mastery)*:** Once per long rest, reach forward along the timeline. Ask the GM: *"If we proceed with this plan, what is the most likely critical failure point?"* The GM must answer truthfully. You take 2 Stress from the vision.
+
 ---
 
 ### Voidwalker
@@ -85,3 +205,27 @@ Voidwalkers go where civilization ends and stay there. Rangers track across envi
 What shapes a Voidwalker is sustained exposure to the alien — in environment, biology, or both. They've learned to read situations without familiar reference points, to assess danger through senses and instincts that most people never develop, and to find resources in places that look barren to everyone else. They tend to be comfortable with uncertainty in a way that can seem unsettling to those who've spent their lives in controlled environments. The void teaches patience. Things move on their own schedule out there.
 
 In a group, Voidwalkers are the ones who can go where no one else can, make contact with what no one else can approach, and survive situations that would end the mission for anyone else. They are often the first into an unknown environment and the last out. Off the edge of the map, they are exactly what the crew needs. Back in civilization, they can feel slightly out of phase — present, capable, but oriented toward a horizon that other people can't quite see.
+
+#### Ranger *(survival/scouting)*
+
+The Ranger is the crew's forward element — the one who goes ahead, reads the terrain, and comes back with information that makes everyone else's job survivable. They are patient, observant, and deeply difficult to surprise.
+
+- **Pathfinder:** You have advantage on all rolls related to navigation, tracking, and survival in any environment. When you lead a group through unfamiliar terrain, the group does not suffer random encounter rolls unless you choose to engage.
+- **Scout Ahead:** When you scout a location before the group enters, ask the GM three questions from: *How many enemies? What are the exits? What are the environmental hazards? Is anyone being held here? What is the biggest threat?* The GM answers all three honestly.
+- **Ghost Tracker *(Mastery)*:** You can track any target across any environment — including space, by ion trail, communication signature, or informant network. You always know the general direction and distance to a designated quarry. This cannot be blocked by mundane concealment.
+
+#### Xenobiologist *(alien knowledge)*
+
+The Xenobiologist knows things that can keep a crew alive on a world that has never heard of them — which plants are toxic, which creatures are territorial, which species might talk before they attack. Their expertise is the difference between first contact and last contact.
+
+- **Alien Taxonomy:** When you encounter an unknown species or organism, roll Knowledge to identify its capabilities, weaknesses, and behavioral patterns — with advantage. On a success, ask the GM three questions about the creature; on a critical success, five.
+- **Xenobiochemistry:** Once per long rest, given access to a sample of alien biological material, synthesize a compound that does one of: acts as a targeted sedative for that species, treats a disease or toxin native to that biology, or functions as a highly effective behavioral deterrent.
+- **First Contact Protocol *(Mastery)*:** When you encounter a sapient species with whom no communication has been established, you may make initial contact non-violently even without a shared language. You understand their intent; they understand yours; neither side initiates violence during your first exchange. This ability can only be used once per species.
+
+#### Drifter *(extreme environment specialist)*
+
+The Drifter has spent enough time in places that should have killed them that those places feel like home. Vacuum, toxic atmospheres, crushing pressure, radiation fields, zero gravity — these are not emergencies to a Drifter. They are just different rooms.
+
+- **Environmental Adaptation:** You do not suffer penalties or disadvantage from any environmental condition: vacuum, extreme pressure, zero gravity, toxic atmosphere, radiation, or extreme temperature. You still require life support equipment, but you function at full effectiveness even when that equipment is marginal.
+- **Void Sense:** In any environment, you can intuitively assess structural integrity, atmospheric composition, gravitational anomalies, and radiation levels without instruments. You always know when conditions are about to become lethal before they do.
+- **Survive Anything *(Mastery)*:** Once per long rest, when you would die from environmental exposure, system failure, or equipment catastrophe, you do not. You survive with 1 HP and take 3 Stress. The GM must describe how — but you are alive. This ability does not apply to direct violence or attacks.
