@@ -10,6 +10,8 @@ book:
   repo-url: https://github.com/jpnarkinsky/laserheart
   repo-actions: [edit, issue]
   favicon: favicon.ico
+  output-file: "laserheart-current"
+  downloads: [pdf]
 
   chapters:
     - index.qmd
