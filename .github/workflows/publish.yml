@@ -29,11 +29,8 @@ jobs:
           tinytex: true
 
 
-      - name: Render HTML
-        run: quarto render --to html
-
-      - name: Render PDF
-        run: quarto render --to pdf
+      - name: Render
+        run: quarto render
 
       - name: Verify PDF exists
         run: test -f _book/laserheart-current.pdf
