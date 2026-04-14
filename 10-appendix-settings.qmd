@@ -1,6 +1,6 @@
 # Appendix: Fan Setting Profiles
 
-These profiles adapt Laserheart to five beloved sci-fi universes. None reproduces copyrighted material — they describe the tone, archetypes, and themes of each setting and translate them into Laserheart's mechanical language. Use the franchise you love as your reference; use these profiles to configure the game.
+These profiles describe the adaptation of Laserheart to five beloved sci-fi universes. None reproduces copyrighted material — they describe the tone, archetypes, and themes of each setting and translate them into Laserheart's mechanical language. Use the franchise you love as your reference; use these profiles to configure the game.
 
 Each profile follows the same format as the core Setting Profiles in Chapter IX.
 
