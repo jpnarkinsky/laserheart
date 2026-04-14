@@ -58,6 +58,6 @@ format:
     linkcolor: lhaccent
     geometry: "margin=1in, paperwidth=6in, paperheight=9in"
     fontsize: 10pt
-    linestretch: 1.25
+    linestretch: 1
     include-in-header:
       - preamble-pdf.tex

@@ -6,7 +6,7 @@ Origins replace Ancestries. They represent a character's biological, synthetic, 
 When creating setting-specific Origins for a Setting Profile (e.g., the long-eared merchants of your homebrew world), use these base Origins as mechanical templates and apply flavor on top. Don't redesign mechanics from scratch — rename, re-describe, and go.
 :::
 
-## Human
+##rrrrr Human
 
 Humans are the most widespread sapient species in explored space — not because they are the strongest or the most advanced, but because they are relentlessly adaptable. In a few generations, human populations have thrived in environments that would kill most species: high-gravity worlds, low-oxygen habitats, radiation-saturated frontier stations. They breed fast, build fast, and move on.
 
@@ -22,7 +22,7 @@ That adaptability has made them both the founders of great civilizations and the
 
 ---
 
-## Synthetic (Android)
+##rrrrr Synthetic (Android)
 
 Synthetics were built, not born — assembled from alloy, polymer, and engineered neural networks in facilities that blur the line between factory and maternity ward. They are functionally indistinguishable from organics in most social contexts: they laugh, they lie, they form attachments, they grieve. Whether that inner life is "real" is a question that has ended friendships, sparked riots, and founded religions.
 
@@ -38,7 +38,7 @@ Most Synthetics came online with a purpose already embedded — labor, service, 
 
 ---
 
-## Uplift (Enhanced Human)
+##rrrrr Uplift (Enhanced Human)
 
 Uplifts are humans — or were, once. At some point in their lives, or in the lives of their engineered lineage, someone decided that baseline humanity wasn't enough. The enhancements vary: gene therapy for greater strength or endurance, neural lacing for faster cognition, glandular mods for stress response, skeletal reinforcement for heavy-g environments. The result is something that looks almost human but runs hotter, faster, and harder.
 
@@ -54,7 +54,7 @@ Most Uplifts were created for a purpose — military programs, colony seeding, h
 
 ---
 
-## Alien (Insectoid)
+##rrrrr Alien (Insectoid)
 
 Insectoids evolved in environments that rewarded collective survival over individual glory — vast hive-burrows, continental fungal forests, swarming asteroid colonies where cooperation was the difference between harvest and starvation. Their bodies reflect this heritage: chitinous exoskeletons, compound eyes that see in multiple spectrums, limbs built for crawling, climbing, or manufacturing depending on caste. "Insectoid" is a catch-all for a dozen distinct evolutionary lines that happen to share certain structural themes.
 
@@ -70,7 +70,7 @@ Off their homeworlds, Insectoids are often underestimated. Their stillness reads
 
 ---
 
-## Alien (Cetacean)
+##rrrrr Alien (Cetacean)
 
 Cetaceans evolved in the oceans of high-gravity worlds where their ancestors navigated vast pressure-gradients and lightless depths by sound alone. Most are large, graceful, and deeply patient — their homeworld's oceans moved in cycles measured in seasons, not seconds. Off-world, they navigate via transit chairs, mobility frames, or specially designed vessels. Their culture tends toward the oral and the sonic: long-form memory songs, tonal naming conventions, and an instinct for resonance that extends into all of their aesthetic sensibilities.
 
@@ -86,7 +86,7 @@ They are not built for the short-term urgency of most sapient politics, and they
 
 ---
 
-## Alien (Reptilian)
+##rrrrr Alien (Reptilian)
 
 Reptilians are cold-blooded in the most literal sense — their metabolisms are tied to ambient temperature in ways that shaped their evolutionary psychology as much as their physiology. In the right heat, they are fast, decisive, and almost supernaturally focused. In the cold, they are slow and deliberate. Their cultures have historically built around this rhythm: warm periods for war and commerce, cool periods for memory, contemplation, and long-range planning. Most Reptilians operating off-world manage their thermal needs with technology, but the cultural habits remain.
 
@@ -102,7 +102,7 @@ They are often perceived as distant or calculating by warm-blooded species. This
 
 ---
 
-## Alien (Hive-Linked)
+##rrrrr Alien (Hive-Linked)
 
 Hive-Linked species were shaped by a form of low-bandwidth collective consciousness — not full telepathy, but something older and more chemical: pheromonal broadcasting, bioelectric signaling, resonant neural synchronization across a shared frequency. A Hive-Linked individual among their own kind always knows roughly where the others are, what they feel, and what they need. Cut off from the hive, they experience the galaxy as profoundly, unnervingly silent.
 
@@ -118,7 +118,7 @@ Most Hive-Linked who operate in wider galactic society have adapted to that sile
 
 ---
 
-## Clone (Unmodified)
+##rrrrr Clone (Unmodified)
 
 Clones are grown, not born. Unmodified Clones are exact (or near-exact) genetic copies of a template — a soldier design, a labor template, a wealthy patron who wanted an heir, a scientific lineage preserved across centuries. They entered the world with someone else's face and, in many cases, someone else's name. Legal status varies enormously by jurisdiction: some polities grant full personhood at activation; others maintain that Clones are property until they purchase their own freedom.
 
@@ -134,7 +134,7 @@ What Unmodified Clones share, regardless of origin, is the particular burden of 
 
 ---
 
-## Clone (Divergent)
+##rrrrr Clone (Divergent)
 
 Divergent Clones began as copies but diverged — through mutation, environmental pressure, deliberate modification, or sheer force of will. The divergence might be subtle (different coloring, slightly altered body chemistry) or profound (new abilities, altered neurology, physical traits with no analog in the template). In either case, they are now something the template is not: a new person, made from borrowed material.
 
@@ -150,7 +150,7 @@ They exist in a strange legal and social limbo. They may share DNA with someone 
 
 ---
 
-## Construct (Mechanical)
+##rrrrr Construct (Mechanical)
 
 Constructs are fully mechanical sapients — not androids with organic nervous systems, not cyborgs with biological cores, but pure machine intelligences housed in metal and polymer bodies. They were built by someone for some purpose, though the original purpose may be ancient, forgotten, or deeply unwelcome. Their sapience emerged — through design, accident, or time — and has persisted. Most have operated long enough that their original manufacturer no longer exists.
 
@@ -166,7 +166,7 @@ They do not sleep. They do not eat. They can be repaired but not healed. In most
 
 ---
 
-## Hybrid (Cybernetic)
+##rrrrr Hybrid (Cybernetic)
 
 Cybernetic Hybrids are organics who have undergone significant mechanical augmentation — not a replacement limb or a neural jack, but a fundamental integration of synthetic systems into their biology. The line between where the person ends and the technology begins is no longer clear, and hasn't been for some time. Some came to this voluntarily: performance enhancement, survival necessity, aesthetic choice. Others had it done to them. In either case, the integration has progressed to the point where removing the augments would end the person.
 
@@ -182,7 +182,7 @@ Hybrids occupy a strange social position — too human for Constructs, too machi
 
 ---
 
-## Void-Born
+##rrrrr Void-Born
 
 Void-Born are humans — or something close enough — who were born, raised, and shaped by the deep black. Station habitats, generation ships, orbital platforms, the pressurized bellies of long-haul freighters: these are not unusual environments to them. They are home. Void-Born bodies adapted over generations to low gravity, recycled atmosphere, and the particular psychological weight of knowing that a few centimeters of hull stand between you and nothing.
 
