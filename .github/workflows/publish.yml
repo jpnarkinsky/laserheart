@@ -28,10 +28,6 @@ jobs:
         with:
           tinytex: true
 
-      - name: Install fonts
-        run: |
-          export PATH="$HOME/.TinyTeX/bin/x86_64-linux:$PATH"
-          tlmgr install sourceserifpro sourcesanspro sourcecodepro
 
       - name: Render HTML
         run: quarto render --to html

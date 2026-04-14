@@ -56,9 +56,6 @@ format:
     colorlinks: true
     linkcolor: lhaccent
     geometry: "margin=1in, paperwidth=6in, paperheight=9in"
-    mainfont: "Source Serif Pro"
-    sansfont: "Source Sans Pro"
-    monofont: "Source Code Pro"
     fontsize: 10pt
     linestretch: 1.4
     include-in-header:
