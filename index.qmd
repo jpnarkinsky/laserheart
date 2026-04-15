@@ -51,7 +51,7 @@ Laserheart requires the **Daggerheart Core Set** or access to the **Daggerheart 
 ---
 
 ::: {.attribution}
-LASERHEART is an original work by [Author Name]. All original content — domain names, vessel rules, setting profiles, and Adaptive Content — is © [Author Name].
+LASERHEART is an original work by JP Narkinsky. All original content — domain names, vessel rules, setting profiles, and Adaptive Content — is © JP Narkinsky .
 
 This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC, under the terms of the Darrington Press Community Gaming License. More information can be found at **www.daggerheart.com**.
 
